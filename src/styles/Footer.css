@@ -1,0 +1,31 @@
+footer ul {
+    background:skyblue;
+    margin:0;padding:5px auto;
+    font-size: 13px;
+    text-align: justify;
+}
+footer ul li {
+    padding: 2em;
+    color:white;
+}
+footer ul li span {
+    display:block;
+    font-size:1.4em;
+    margin-bottom:1em;
+    color: white;
+}
+#Footer{
+display:grid;
+list-style-type:none;
+grid-template-columns: repeat(3, auto);
+}
+footer{
+    position: absolute;
+    width:100%;
+    
+}
+@media only screen and (max-width: 500px){
+    #Footer{
+        grid-template-columns: auto;
+    }
+}

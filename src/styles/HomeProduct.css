@@ -1,0 +1,8 @@
+.konten{
+    margin-top: 20px;
+    height: 100vw;
+}
+.busproduct{
+    display:flex;
+    flex-wrap: wrap;
+}

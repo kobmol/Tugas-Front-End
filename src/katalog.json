@@ -1,0 +1,136 @@
+[
+    {
+        "id":"1",
+        "merk":"Mercedez Benz",
+        "sheet":"58 Sheet",
+        "price":" IDR 3.000.000",
+        "images":"Bus3.jpg",
+        "kategori": "Big_Bus"
+    },
+    {
+        "id":"2",
+        "merk":"Mercedez Benz",
+        "sheet":"48 Sheet",
+        "price":"IDR 2.500.000",
+        "images":"Bus3.jpg",
+        "kategori": "Big_Bus"
+        
+    },
+    {
+        "id":"3",
+        "merk":"Hino",
+        "sheet":"58 Sheet",
+        "price":"IDR 3.000.000",
+        "images":"bus3.jpg",
+        "kategori": "Big_Bus"
+            
+    },
+    {
+        "id":"4",
+        "merk":"Hino",
+        "sheet":"48 Sheet",
+        "price":"IDR 2.200.000",
+        "images":"bus3.jpg",
+        "kategori": "Big_Bus"
+             
+    },
+    {
+        "id":"5",
+        "merk":"Hino",
+        "sheet":"48 Sheet",
+        "price":"IDR 2.200.000",
+        "images":"bus2.jpg",
+        "kategori": "Big_Bus"             
+    },
+    {
+        "id":"6",
+        "merk":"Hino",
+        "sheet":"48 Sheet",
+        "price":"IDR 2.200.000",
+        "images":"Bus3.jpg",
+        "kategori": "Big_Bus"
+             
+    },
+    {
+        "id":"7",
+        "merk":"Hino",
+        "sheet":"48 Sheet",
+        "price":"IDR 2.200.000",
+        "images":"bus2.jpg",
+        "kategori": "Big_Bus"                
+    },
+    {
+        "id":"8",
+        "merk":"Hino",
+        "sheet":"48 Sheet",
+        "price":"IDR 2.200.000",
+        "images":"bus2.jpg",
+        "kategori": "Big_Bus"             
+    },
+    {
+        "id":"9",
+        "merk":"Mercedez Benz",
+        "sheet":"38 Sheet",
+        "price":"IDR 2.200.000",
+        "images":"Bus3.jpg",
+        "kategori": "Medium_Bus"
+               
+    },
+    {
+        "id":"10",
+        "merk":"Mercedez Benz",
+        "sheet":"38 Sheet",
+        "price":"IDR 2.200.000",
+        "images":"bus2.jpg",
+        "kategori": "Medium_Bus" 
+    },
+    {
+        "id":"11",
+        "merk":"Hino",
+        "sheet":"38 Sheet",
+        "price":"IDR 2.000.000",
+        "images":"Bus3.jpg",
+        "kategori": "Medium_Bus"             
+    },
+    {
+        "id":"12",
+        "merk":"Mercedez Benz",
+        "sheet":"28 Sheet",
+        "price":"IDR 2.000.000",
+        "images":"Bus3.jpg",
+        "kategori": "Micro_Bus"
+    },
+    {
+        "id":"13",
+        "merk":"Hino",
+        "sheet":"28 Sheet",
+        "price":"IDR 1.500.000",
+        "images":"Bus3.jpg",
+        "kategori": "Micro_Bus"             
+    } ,
+    {
+        "id":"14",
+        "merk":"Hino",
+        "sheet":"28 Sheet",
+        "price":"IDR 1.000.000",
+        "images":"bus2.jpg",
+        "kategori": "Micro_Bus"              
+    },
+    {
+        "id":"15",
+        "merk":"Mercedez Benz",
+        "sheet":"14 Sheet",
+        "price":"IDR 1.300.000",
+        "images":"Bus3.jpg",
+        "kategori": "Micro_Bus"             
+    },
+    {
+        "id":"16",
+        "merk":"Mercedez Benz",
+        "sheet":"12 Sheet",
+        "price":"IDR 1.100.000",
+        "images":"Bus3.jpg",
+        "kategori": "Micro_Bus"              
+    }
+
+]
